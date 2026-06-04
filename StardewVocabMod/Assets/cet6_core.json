@@ -1,0 +1,6224 @@
+[
+  {
+    "Word": "abandon",
+    "Chinese": "放弃；抛弃",
+    "Difficulty": "cet6",
+    "RootPrefix": "aba"
+  },
+  {
+    "Word": "abnormal",
+    "Chinese": "不正常的；异常的",
+    "Difficulty": "cet6",
+    "RootPrefix": "abn"
+  },
+  {
+    "Word": "aboard",
+    "Chinese": "在船(飞机、车)上",
+    "Difficulty": "cet6",
+    "RootPrefix": "abo"
+  },
+  {
+    "Word": "abolish",
+    "Chinese": "废除；取消",
+    "Difficulty": "cet6",
+    "RootPrefix": "abo"
+  },
+  {
+    "Word": "abortion",
+    "Chinese": "流产；堕胎",
+    "Difficulty": "cet6",
+    "RootPrefix": "abo"
+  },
+  {
+    "Word": "abroad",
+    "Chinese": "到国外；在国外",
+    "Difficulty": "cet6",
+    "RootPrefix": "abr"
+  },
+  {
+    "Word": "abrupt",
+    "Chinese": "突然的；唐突的",
+    "Difficulty": "cet6",
+    "RootPrefix": "abr"
+  },
+  {
+    "Word": "absence",
+    "Chinese": "缺席；不在",
+    "Difficulty": "cet6",
+    "RootPrefix": "abs"
+  },
+  {
+    "Word": "absolute",
+    "Chinese": "绝对的；完全的",
+    "Difficulty": "cet6",
+    "RootPrefix": "abs"
+  },
+  {
+    "Word": "absorb",
+    "Chinese": "吸收；吸引",
+    "Difficulty": "cet6",
+    "RootPrefix": "abs"
+  },
+  {
+    "Word": "abstract",
+    "Chinese": "抽象的；摘要",
+    "Difficulty": "cet6",
+    "RootPrefix": "abs"
+  },
+  {
+    "Word": "absurd",
+    "Chinese": "荒谬的；可笑的",
+    "Difficulty": "cet6",
+    "RootPrefix": "abs"
+  },
+  {
+    "Word": "abundant",
+    "Chinese": "丰富的；充裕的",
+    "Difficulty": "cet6",
+    "RootPrefix": "abu"
+  },
+  {
+    "Word": "abuse",
+    "Chinese": "滥用；虐待",
+    "Difficulty": "cet6",
+    "RootPrefix": "abu"
+  },
+  {
+    "Word": "academic",
+    "Chinese": "学术的；学院的",
+    "Difficulty": "cet6",
+    "RootPrefix": "aca"
+  },
+  {
+    "Word": "accelerate",
+    "Chinese": "加速；促进",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "access",
+    "Chinese": "进入；通道；访问",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "accommodate",
+    "Chinese": "容纳；提供住宿",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "accompany",
+    "Chinese": "陪伴；伴随",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "accomplish",
+    "Chinese": "完成；实现",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "account",
+    "Chinese": "账户；说明；认为",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "accumulate",
+    "Chinese": "积累；积聚",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "accurate",
+    "Chinese": "准确的；精确的",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "accuse",
+    "Chinese": "指控；指责",
+    "Difficulty": "cet6",
+    "RootPrefix": "acc"
+  },
+  {
+    "Word": "achieve",
+    "Chinese": "实现；达到",
+    "Difficulty": "cet6",
+    "RootPrefix": "ach"
+  },
+  {
+    "Word": "acknowledge",
+    "Chinese": "承认；确认",
+    "Difficulty": "cet6",
+    "RootPrefix": "ack"
+  },
+  {
+    "Word": "acquaint",
+    "Chinese": "使认识；使了解",
+    "Difficulty": "cet6",
+    "RootPrefix": "acq"
+  },
+  {
+    "Word": "acquire",
+    "Chinese": "获得；习得",
+    "Difficulty": "cet6",
+    "RootPrefix": "acq"
+  },
+  {
+    "Word": "activate",
+    "Chinese": "激活；使活动",
+    "Difficulty": "cet6",
+    "RootPrefix": "act"
+  },
+  {
+    "Word": "acute",
+    "Chinese": "急性的；敏锐的",
+    "Difficulty": "cet6",
+    "RootPrefix": "acu"
+  },
+  {
+    "Word": "adapt",
+    "Chinese": "适应；改编",
+    "Difficulty": "cet6",
+    "RootPrefix": "ada"
+  },
+  {
+    "Word": "adequate",
+    "Chinese": "足够的；适当的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ade"
+  },
+  {
+    "Word": "adjust",
+    "Chinese": "调整；适应",
+    "Difficulty": "cet6",
+    "RootPrefix": "adj"
+  },
+  {
+    "Word": "administration",
+    "Chinese": "管理；行政",
+    "Difficulty": "cet6",
+    "RootPrefix": "adm"
+  },
+  {
+    "Word": "admire",
+    "Chinese": "钦佩；赞赏",
+    "Difficulty": "cet6",
+    "RootPrefix": "adm"
+  },
+  {
+    "Word": "admission",
+    "Chinese": "准许进入；承认",
+    "Difficulty": "cet6",
+    "RootPrefix": "adm"
+  },
+  {
+    "Word": "adopt",
+    "Chinese": "采纳；收养",
+    "Difficulty": "cet6",
+    "RootPrefix": "ado"
+  },
+  {
+    "Word": "advance",
+    "Chinese": "前进；进步；预先的",
+    "Difficulty": "cet6",
+    "RootPrefix": "adv"
+  },
+  {
+    "Word": "advantage",
+    "Chinese": "优势；有利条件",
+    "Difficulty": "cet6",
+    "RootPrefix": "adv"
+  },
+  {
+    "Word": "advertise",
+    "Chinese": "做广告；宣传",
+    "Difficulty": "cet6",
+    "RootPrefix": "adv"
+  },
+  {
+    "Word": "advocate",
+    "Chinese": "提倡；倡导者",
+    "Difficulty": "cet6",
+    "RootPrefix": "adv"
+  },
+  {
+    "Word": "affair",
+    "Chinese": "事务；事件",
+    "Difficulty": "cet6",
+    "RootPrefix": "aff"
+  },
+  {
+    "Word": "affect",
+    "Chinese": "影响；感动",
+    "Difficulty": "cet6",
+    "RootPrefix": "aff"
+  },
+  {
+    "Word": "afford",
+    "Chinese": "负担得起；提供",
+    "Difficulty": "cet6",
+    "RootPrefix": "aff"
+  },
+  {
+    "Word": "aggressive",
+    "Chinese": "侵略的；好斗的",
+    "Difficulty": "cet6",
+    "RootPrefix": "agg"
+  },
+  {
+    "Word": "agriculture",
+    "Chinese": "农业；农学",
+    "Difficulty": "cet6",
+    "RootPrefix": "agr"
+  },
+  {
+    "Word": "alarm",
+    "Chinese": "警报；使惊恐",
+    "Difficulty": "cet6",
+    "RootPrefix": "ala"
+  },
+  {
+    "Word": "alert",
+    "Chinese": "警觉的；使警惕",
+    "Difficulty": "cet6",
+    "RootPrefix": "ale"
+  },
+  {
+    "Word": "alien",
+    "Chinese": "外国的；外星人",
+    "Difficulty": "cet6",
+    "RootPrefix": "ali"
+  },
+  {
+    "Word": "alliance",
+    "Chinese": "联盟；结盟",
+    "Difficulty": "cet6",
+    "RootPrefix": "all"
+  },
+  {
+    "Word": "allocate",
+    "Chinese": "分配；拨出",
+    "Difficulty": "cet6",
+    "RootPrefix": "all"
+  },
+  {
+    "Word": "allowance",
+    "Chinese": "津贴；零用钱",
+    "Difficulty": "cet6",
+    "RootPrefix": "all"
+  },
+  {
+    "Word": "alter",
+    "Chinese": "改变；修改",
+    "Difficulty": "cet6",
+    "RootPrefix": "alt"
+  },
+  {
+    "Word": "alternative",
+    "Chinese": "替代的；供替代的选择",
+    "Difficulty": "cet6",
+    "RootPrefix": "alt"
+  },
+  {
+    "Word": "amateur",
+    "Chinese": "业余的；业余爱好者",
+    "Difficulty": "cet6",
+    "RootPrefix": "ama"
+  },
+  {
+    "Word": "ambassador",
+    "Chinese": "大使；代表",
+    "Difficulty": "cet6",
+    "RootPrefix": "amb"
+  },
+  {
+    "Word": "ambition",
+    "Chinese": "野心；雄心",
+    "Difficulty": "cet6",
+    "RootPrefix": "amb"
+  },
+  {
+    "Word": "ambitious",
+    "Chinese": "有雄心的；野心勃勃的",
+    "Difficulty": "cet6",
+    "RootPrefix": "amb"
+  },
+  {
+    "Word": "amend",
+    "Chinese": "修改；修订",
+    "Difficulty": "cet6",
+    "RootPrefix": "ame"
+  },
+  {
+    "Word": "amuse",
+    "Chinese": "娱乐；逗乐",
+    "Difficulty": "cet6",
+    "RootPrefix": "amu"
+  },
+  {
+    "Word": "analyse",
+    "Chinese": "分析；解析",
+    "Difficulty": "cet6",
+    "RootPrefix": "ana"
+  },
+  {
+    "Word": "ancestor",
+    "Chinese": "祖先；祖宗",
+    "Difficulty": "cet6",
+    "RootPrefix": "anc"
+  },
+  {
+    "Word": "anchor",
+    "Chinese": "锚；使稳固",
+    "Difficulty": "cet6",
+    "RootPrefix": "anc"
+  },
+  {
+    "Word": "angle",
+    "Chinese": "角度；观点",
+    "Difficulty": "cet6",
+    "RootPrefix": "ang"
+  },
+  {
+    "Word": "anniversary",
+    "Chinese": "周年纪念日",
+    "Difficulty": "cet6",
+    "RootPrefix": "ann"
+  },
+  {
+    "Word": "announce",
+    "Chinese": "宣布；通告",
+    "Difficulty": "cet6",
+    "RootPrefix": "ann"
+  },
+  {
+    "Word": "annual",
+    "Chinese": "每年的；年度的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ann"
+  },
+  {
+    "Word": "anticipate",
+    "Chinese": "预期；期望",
+    "Difficulty": "cet6",
+    "RootPrefix": "ant"
+  },
+  {
+    "Word": "anxiety",
+    "Chinese": "焦虑；不安",
+    "Difficulty": "cet6",
+    "RootPrefix": "anx"
+  },
+  {
+    "Word": "apparent",
+    "Chinese": "明显的；表面上的",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "appeal",
+    "Chinese": "呼吁；吸引",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "appetite",
+    "Chinese": "胃口；食欲",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "appliance",
+    "Chinese": "电器；器具",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "application",
+    "Chinese": "申请；应用",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "apply",
+    "Chinese": "申请；应用",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "appoint",
+    "Chinese": "任命；约定",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "appreciate",
+    "Chinese": "欣赏；感激",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "approach",
+    "Chinese": "接近；方法",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "appropriate",
+    "Chinese": "适当的；合适的",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "approve",
+    "Chinese": "批准；赞成",
+    "Difficulty": "cet6",
+    "RootPrefix": "app"
+  },
+  {
+    "Word": "arise",
+    "Chinese": "出现；产生",
+    "Difficulty": "cet6",
+    "RootPrefix": "ari"
+  },
+  {
+    "Word": "arouse",
+    "Chinese": "唤起；激起",
+    "Difficulty": "cet6",
+    "RootPrefix": "aro"
+  },
+  {
+    "Word": "arrange",
+    "Chinese": "安排；整理",
+    "Difficulty": "cet6",
+    "RootPrefix": "arr"
+  },
+  {
+    "Word": "arrest",
+    "Chinese": "逮捕；阻止",
+    "Difficulty": "cet6",
+    "RootPrefix": "arr"
+  },
+  {
+    "Word": "artificial",
+    "Chinese": "人工的；人造的",
+    "Difficulty": "cet6",
+    "RootPrefix": "art"
+  },
+  {
+    "Word": "assemble",
+    "Chinese": "集合；组装",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "assert",
+    "Chinese": "断言；主张",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "assess",
+    "Chinese": "评估；评定",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "asset",
+    "Chinese": "资产；优点",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "assign",
+    "Chinese": "分配；指派",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "assist",
+    "Chinese": "帮助；协助",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "associate",
+    "Chinese": "联系；关联",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "assume",
+    "Chinese": "假设；承担",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "assure",
+    "Chinese": "保证；使确信",
+    "Difficulty": "cet6",
+    "RootPrefix": "ass"
+  },
+  {
+    "Word": "atmosphere",
+    "Chinese": "气氛；大气层",
+    "Difficulty": "cet6",
+    "RootPrefix": "atm"
+  },
+  {
+    "Word": "attach",
+    "Chinese": "系上；附加",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "attain",
+    "Chinese": "达到；获得",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "attempt",
+    "Chinese": "尝试；企图",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "attend",
+    "Chinese": "参加；照料",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "attitude",
+    "Chinese": "态度；看法",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "attract",
+    "Chinese": "吸引；引起",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "attribute",
+    "Chinese": "属性；归因于",
+    "Difficulty": "cet6",
+    "RootPrefix": "att"
+  },
+  {
+    "Word": "authority",
+    "Chinese": "权威；当局",
+    "Difficulty": "cet6",
+    "RootPrefix": "aut"
+  },
+  {
+    "Word": "automatic",
+    "Chinese": "自动的；无意识的",
+    "Difficulty": "cet6",
+    "RootPrefix": "aut"
+  },
+  {
+    "Word": "available",
+    "Chinese": "可用的；有效的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ava"
+  },
+  {
+    "Word": "avenue",
+    "Chinese": "大街；途径",
+    "Difficulty": "cet6",
+    "RootPrefix": "ave"
+  },
+  {
+    "Word": "avoid",
+    "Chinese": "避免；回避",
+    "Difficulty": "cet6",
+    "RootPrefix": "avo"
+  },
+  {
+    "Word": "award",
+    "Chinese": "奖品；授予",
+    "Difficulty": "cet6",
+    "RootPrefix": "awa"
+  },
+  {
+    "Word": "aware",
+    "Chinese": "意识到的；知道的",
+    "Difficulty": "cet6",
+    "RootPrefix": "awa"
+  },
+  {
+    "Word": "awful",
+    "Chinese": "可怕的；极坏的",
+    "Difficulty": "cet6",
+    "RootPrefix": "awf"
+  },
+  {
+    "Word": "background",
+    "Chinese": "背景；出身",
+    "Difficulty": "cet6",
+    "RootPrefix": "bac"
+  },
+  {
+    "Word": "backward",
+    "Chinese": "向后的；落后的",
+    "Difficulty": "cet6",
+    "RootPrefix": "bac"
+  },
+  {
+    "Word": "bacteria",
+    "Chinese": "细菌",
+    "Difficulty": "cet6",
+    "RootPrefix": "bac"
+  },
+  {
+    "Word": "balance",
+    "Chinese": "平衡；余额",
+    "Difficulty": "cet6",
+    "RootPrefix": "bal"
+  },
+  {
+    "Word": "ban",
+    "Chinese": "禁止；禁令",
+    "Difficulty": "cet6",
+    "RootPrefix": ""
+  },
+  {
+    "Word": "bankrupt",
+    "Chinese": "破产的；破产者",
+    "Difficulty": "cet6",
+    "RootPrefix": "ban"
+  },
+  {
+    "Word": "bargain",
+    "Chinese": "便宜货；讨价还价",
+    "Difficulty": "cet6",
+    "RootPrefix": "bar"
+  },
+  {
+    "Word": "barrier",
+    "Chinese": "障碍；屏障",
+    "Difficulty": "cet6",
+    "RootPrefix": "bar"
+  },
+  {
+    "Word": "battle",
+    "Chinese": "战斗；斗争",
+    "Difficulty": "cet6",
+    "RootPrefix": "bat"
+  },
+  {
+    "Word": "behalf",
+    "Chinese": "代表；利益",
+    "Difficulty": "cet6",
+    "RootPrefix": "beh"
+  },
+  {
+    "Word": "behave",
+    "Chinese": "行为；表现",
+    "Difficulty": "cet6",
+    "RootPrefix": "beh"
+  },
+  {
+    "Word": "beneath",
+    "Chinese": "在…下方",
+    "Difficulty": "cet6",
+    "RootPrefix": "ben"
+  },
+  {
+    "Word": "benefit",
+    "Chinese": "益处；受益",
+    "Difficulty": "cet6",
+    "RootPrefix": "ben"
+  },
+  {
+    "Word": "besides",
+    "Chinese": "除…之外；此外",
+    "Difficulty": "cet6",
+    "RootPrefix": "bes"
+  },
+  {
+    "Word": "betray",
+    "Chinese": "背叛；泄露",
+    "Difficulty": "cet6",
+    "RootPrefix": "bet"
+  },
+  {
+    "Word": "billion",
+    "Chinese": "十亿",
+    "Difficulty": "cet6",
+    "RootPrefix": "bil"
+  },
+  {
+    "Word": "bind",
+    "Chinese": "捆绑；约束",
+    "Difficulty": "cet6",
+    "RootPrefix": "bin"
+  },
+  {
+    "Word": "blade",
+    "Chinese": "刀片；刀刃",
+    "Difficulty": "cet6",
+    "RootPrefix": "bla"
+  },
+  {
+    "Word": "blame",
+    "Chinese": "责备；归咎于",
+    "Difficulty": "cet6",
+    "RootPrefix": "bla"
+  },
+  {
+    "Word": "blank",
+    "Chinese": "空白的；空白处",
+    "Difficulty": "cet6",
+    "RootPrefix": "bla"
+  },
+  {
+    "Word": "blast",
+    "Chinese": "爆炸；冲击波",
+    "Difficulty": "cet6",
+    "RootPrefix": "bla"
+  },
+  {
+    "Word": "bleed",
+    "Chinese": "流血；出血",
+    "Difficulty": "cet6",
+    "RootPrefix": "ble"
+  },
+  {
+    "Word": "blend",
+    "Chinese": "混合；混合物",
+    "Difficulty": "cet6",
+    "RootPrefix": "ble"
+  },
+  {
+    "Word": "bless",
+    "Chinese": "祝福；保佑",
+    "Difficulty": "cet6",
+    "RootPrefix": "ble"
+  },
+  {
+    "Word": "block",
+    "Chinese": "街区；阻塞",
+    "Difficulty": "cet6",
+    "RootPrefix": "blo"
+  },
+  {
+    "Word": "bloom",
+    "Chinese": "开花；花朵",
+    "Difficulty": "cet6",
+    "RootPrefix": "blo"
+  },
+  {
+    "Word": "board",
+    "Chinese": "木板；董事会",
+    "Difficulty": "cet6",
+    "RootPrefix": "boa"
+  },
+  {
+    "Word": "boast",
+    "Chinese": "吹嘘；自夸",
+    "Difficulty": "cet6",
+    "RootPrefix": "boa"
+  },
+  {
+    "Word": "bond",
+    "Chinese": "纽带；债券",
+    "Difficulty": "cet6",
+    "RootPrefix": "bon"
+  },
+  {
+    "Word": "boom",
+    "Chinese": "繁荣；激增",
+    "Difficulty": "cet6",
+    "RootPrefix": "boo"
+  },
+  {
+    "Word": "border",
+    "Chinese": "边界；边境",
+    "Difficulty": "cet6",
+    "RootPrefix": "bor"
+  },
+  {
+    "Word": "bore",
+    "Chinese": "使厌烦；钻孔",
+    "Difficulty": "cet6",
+    "RootPrefix": "bor"
+  },
+  {
+    "Word": "bother",
+    "Chinese": "打扰；烦扰",
+    "Difficulty": "cet6",
+    "RootPrefix": "bot"
+  },
+  {
+    "Word": "bounce",
+    "Chinese": "弹跳；反弹",
+    "Difficulty": "cet6",
+    "RootPrefix": "bou"
+  },
+  {
+    "Word": "bound",
+    "Chinese": "跳跃；界限",
+    "Difficulty": "cet6",
+    "RootPrefix": "bou"
+  },
+  {
+    "Word": "brand",
+    "Chinese": "品牌；商标",
+    "Difficulty": "cet6",
+    "RootPrefix": "bra"
+  },
+  {
+    "Word": "breach",
+    "Chinese": "违反；破坏",
+    "Difficulty": "cet6",
+    "RootPrefix": "bre"
+  },
+  {
+    "Word": "breakdown",
+    "Chinese": "故障；垮台",
+    "Difficulty": "cet6",
+    "RootPrefix": "bre"
+  },
+  {
+    "Word": "breed",
+    "Chinese": "品种；繁殖",
+    "Difficulty": "cet6",
+    "RootPrefix": "bre"
+  },
+  {
+    "Word": "brief",
+    "Chinese": "简短的；摘要",
+    "Difficulty": "cet6",
+    "RootPrefix": "bri"
+  },
+  {
+    "Word": "brilliant",
+    "Chinese": "杰出的；明亮的",
+    "Difficulty": "cet6",
+    "RootPrefix": "bri"
+  },
+  {
+    "Word": "broadcast",
+    "Chinese": "广播；播送",
+    "Difficulty": "cet6",
+    "RootPrefix": "bro"
+  },
+  {
+    "Word": "browse",
+    "Chinese": "浏览；吃草",
+    "Difficulty": "cet6",
+    "RootPrefix": "bro"
+  },
+  {
+    "Word": "budget",
+    "Chinese": "预算",
+    "Difficulty": "cet6",
+    "RootPrefix": "bud"
+  },
+  {
+    "Word": "burden",
+    "Chinese": "负担；重担",
+    "Difficulty": "cet6",
+    "RootPrefix": "bur"
+  },
+  {
+    "Word": "bureau",
+    "Chinese": "局；办事处",
+    "Difficulty": "cet6",
+    "RootPrefix": "bur"
+  },
+  {
+    "Word": "burst",
+    "Chinese": "爆发；破裂",
+    "Difficulty": "cet6",
+    "RootPrefix": "bur"
+  },
+  {
+    "Word": "cabinet",
+    "Chinese": "内阁；橱柜",
+    "Difficulty": "cet6",
+    "RootPrefix": "cab"
+  },
+  {
+    "Word": "cable",
+    "Chinese": "电缆；电报",
+    "Difficulty": "cet6",
+    "RootPrefix": "cab"
+  },
+  {
+    "Word": "calculate",
+    "Chinese": "计算；估计",
+    "Difficulty": "cet6",
+    "RootPrefix": "cal"
+  },
+  {
+    "Word": "campaign",
+    "Chinese": "运动；战役",
+    "Difficulty": "cet6",
+    "RootPrefix": "cam"
+  },
+  {
+    "Word": "campus",
+    "Chinese": "校园",
+    "Difficulty": "cet6",
+    "RootPrefix": "cam"
+  },
+  {
+    "Word": "cancel",
+    "Chinese": "取消；撤销",
+    "Difficulty": "cet6",
+    "RootPrefix": "can"
+  },
+  {
+    "Word": "candidate",
+    "Chinese": "候选人；应试者",
+    "Difficulty": "cet6",
+    "RootPrefix": "can"
+  },
+  {
+    "Word": "capable",
+    "Chinese": "有能力的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cap"
+  },
+  {
+    "Word": "capacity",
+    "Chinese": "容量；能力",
+    "Difficulty": "cet6",
+    "RootPrefix": "cap"
+  },
+  {
+    "Word": "capture",
+    "Chinese": "捕获；俘获",
+    "Difficulty": "cet6",
+    "RootPrefix": "cap"
+  },
+  {
+    "Word": "career",
+    "Chinese": "职业；生涯",
+    "Difficulty": "cet6",
+    "RootPrefix": "car"
+  },
+  {
+    "Word": "cargo",
+    "Chinese": "货物",
+    "Difficulty": "cet6",
+    "RootPrefix": "car"
+  },
+  {
+    "Word": "cast",
+    "Chinese": "投掷；铸造",
+    "Difficulty": "cet6",
+    "RootPrefix": "cas"
+  },
+  {
+    "Word": "casual",
+    "Chinese": "随便的；偶然的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cas"
+  },
+  {
+    "Word": "catalogue",
+    "Chinese": "目录；编目",
+    "Difficulty": "cet6",
+    "RootPrefix": "cat"
+  },
+  {
+    "Word": "category",
+    "Chinese": "类别；种类",
+    "Difficulty": "cet6",
+    "RootPrefix": "cat"
+  },
+  {
+    "Word": "cease",
+    "Chinese": "停止；终止",
+    "Difficulty": "cet6",
+    "RootPrefix": "cea"
+  },
+  {
+    "Word": "celebrate",
+    "Chinese": "庆祝；赞美",
+    "Difficulty": "cet6",
+    "RootPrefix": "cel"
+  },
+  {
+    "Word": "challenge",
+    "Chinese": "挑战；质疑",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "champion",
+    "Chinese": "冠军；拥护者",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "channel",
+    "Chinese": "频道；渠道",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "chaos",
+    "Chinese": "混乱；混沌",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "character",
+    "Chinese": "性格；角色",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "characteristic",
+    "Chinese": "特征；特有的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "charity",
+    "Chinese": "慈善；慈善机构",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "charm",
+    "Chinese": "魅力；迷人",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "chart",
+    "Chinese": "图表",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "chase",
+    "Chinese": "追逐；追捕",
+    "Difficulty": "cet6",
+    "RootPrefix": "cha"
+  },
+  {
+    "Word": "chemical",
+    "Chinese": "化学的；化学品",
+    "Difficulty": "cet6",
+    "RootPrefix": "che"
+  },
+  {
+    "Word": "chief",
+    "Chinese": "主要的；首领",
+    "Difficulty": "cet6",
+    "RootPrefix": "chi"
+  },
+  {
+    "Word": "chip",
+    "Chinese": "芯片；碎片",
+    "Difficulty": "cet6",
+    "RootPrefix": "chi"
+  },
+  {
+    "Word": "chronic",
+    "Chinese": "慢性的；长期的",
+    "Difficulty": "cet6",
+    "RootPrefix": "chr"
+  },
+  {
+    "Word": "circuit",
+    "Chinese": "电路；环行",
+    "Difficulty": "cet6",
+    "RootPrefix": "cir"
+  },
+  {
+    "Word": "circulate",
+    "Chinese": "循环；流通",
+    "Difficulty": "cet6",
+    "RootPrefix": "cir"
+  },
+  {
+    "Word": "circumstance",
+    "Chinese": "情况；环境",
+    "Difficulty": "cet6",
+    "RootPrefix": "cir"
+  },
+  {
+    "Word": "citizen",
+    "Chinese": "公民；市民",
+    "Difficulty": "cet6",
+    "RootPrefix": "cit"
+  },
+  {
+    "Word": "civil",
+    "Chinese": "公民的；民事的",
+    "Difficulty": "cet6",
+    "RootPrefix": "civ"
+  },
+  {
+    "Word": "claim",
+    "Chinese": "声称；要求",
+    "Difficulty": "cet6",
+    "RootPrefix": "cla"
+  },
+  {
+    "Word": "clarify",
+    "Chinese": "澄清；阐明",
+    "Difficulty": "cet6",
+    "RootPrefix": "cla"
+  },
+  {
+    "Word": "classic",
+    "Chinese": "经典的；名著",
+    "Difficulty": "cet6",
+    "RootPrefix": "cla"
+  },
+  {
+    "Word": "classify",
+    "Chinese": "分类；归类",
+    "Difficulty": "cet6",
+    "RootPrefix": "cla"
+  },
+  {
+    "Word": "climate",
+    "Chinese": "气候；风气",
+    "Difficulty": "cet6",
+    "RootPrefix": "cli"
+  },
+  {
+    "Word": "clue",
+    "Chinese": "线索；提示",
+    "Difficulty": "cet6",
+    "RootPrefix": "clu"
+  },
+  {
+    "Word": "collapse",
+    "Chinese": "倒塌；崩溃",
+    "Difficulty": "cet6",
+    "RootPrefix": "col"
+  },
+  {
+    "Word": "colleague",
+    "Chinese": "同事；同僚",
+    "Difficulty": "cet6",
+    "RootPrefix": "col"
+  },
+  {
+    "Word": "collection",
+    "Chinese": "收集；收藏品",
+    "Difficulty": "cet6",
+    "RootPrefix": "col"
+  },
+  {
+    "Word": "collision",
+    "Chinese": "碰撞；冲突",
+    "Difficulty": "cet6",
+    "RootPrefix": "col"
+  },
+  {
+    "Word": "combat",
+    "Chinese": "战斗；与…斗争",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "combine",
+    "Chinese": "结合；联合",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "command",
+    "Chinese": "命令；指挥",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "comment",
+    "Chinese": "评论；意见",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "commerce",
+    "Chinese": "商业；贸易",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "commission",
+    "Chinese": "委员会；佣金",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "commit",
+    "Chinese": "犯(罪)；承诺",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "communicate",
+    "Chinese": "沟通；交流",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "community",
+    "Chinese": "社区；团体",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "companion",
+    "Chinese": "同伴；伙伴",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compare",
+    "Chinese": "比较；对比",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compatible",
+    "Chinese": "兼容的；合得来的",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compel",
+    "Chinese": "强迫；迫使",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compensate",
+    "Chinese": "补偿；赔偿",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compete",
+    "Chinese": "竞争；比赛",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "competent",
+    "Chinese": "有能力的；胜任的",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compile",
+    "Chinese": "编译；汇编",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "complain",
+    "Chinese": "抱怨；投诉",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "complex",
+    "Chinese": "复杂的；综合体",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "complicate",
+    "Chinese": "使复杂化",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "component",
+    "Chinese": "组成部分；组件",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "compose",
+    "Chinese": "组成；创作",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "comprehend",
+    "Chinese": "理解；领悟",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "comprise",
+    "Chinese": "包含；由…组成",
+    "Difficulty": "cet6",
+    "RootPrefix": "com"
+  },
+  {
+    "Word": "concentrate",
+    "Chinese": "集中；专注",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "concept",
+    "Chinese": "概念；观念",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "concern",
+    "Chinese": "关心；涉及",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conclude",
+    "Chinese": "总结；得出结论",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "concrete",
+    "Chinese": "具体的；混凝土",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "condition",
+    "Chinese": "条件；状况",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conduct",
+    "Chinese": "行为；指挥",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conference",
+    "Chinese": "会议；讨论",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "confess",
+    "Chinese": "承认；坦白",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "confidence",
+    "Chinese": "信心；信任",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "confine",
+    "Chinese": "限制；局限",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "confirm",
+    "Chinese": "确认；证实",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conflict",
+    "Chinese": "冲突；矛盾",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "confront",
+    "Chinese": "面对；对抗",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "confuse",
+    "Chinese": "使困惑；混淆",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "congress",
+    "Chinese": "国会；议会",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "connect",
+    "Chinese": "连接；联系",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conscience",
+    "Chinese": "良心；良知",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conscious",
+    "Chinese": "有意识的；清醒的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "consent",
+    "Chinese": "同意；许可",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "consequence",
+    "Chinese": "后果；结果",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "conservative",
+    "Chinese": "保守的；守旧的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "consider",
+    "Chinese": "考虑；认为",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "consistent",
+    "Chinese": "一致的；始终如一的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "constant",
+    "Chinese": "不断的；常数",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "constitute",
+    "Chinese": "构成；组成",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "construct",
+    "Chinese": "建造；构建",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "consult",
+    "Chinese": "咨询；请教",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "consume",
+    "Chinese": "消费；消耗",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contact",
+    "Chinese": "接触；联系",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contain",
+    "Chinese": "包含；容纳",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contemporary",
+    "Chinese": "当代的；同时代的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "content",
+    "Chinese": "内容；满足的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contest",
+    "Chinese": "竞赛；争论",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "context",
+    "Chinese": "上下文；背景",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contract",
+    "Chinese": "合同；收缩",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contrast",
+    "Chinese": "对比；对照",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "contribute",
+    "Chinese": "贡献；捐献",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "controversial",
+    "Chinese": "有争议的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "convenient",
+    "Chinese": "方便的；便利的",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "convention",
+    "Chinese": "大会；惯例",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "convert",
+    "Chinese": "转换；改变",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "convey",
+    "Chinese": "传达；运送",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "convince",
+    "Chinese": "说服；使信服",
+    "Difficulty": "cet6",
+    "RootPrefix": "con"
+  },
+  {
+    "Word": "cooperate",
+    "Chinese": "合作；协作",
+    "Difficulty": "cet6",
+    "RootPrefix": "coo"
+  },
+  {
+    "Word": "coordinate",
+    "Chinese": "协调；坐标",
+    "Difficulty": "cet6",
+    "RootPrefix": "coo"
+  },
+  {
+    "Word": "cope",
+    "Chinese": "应付；处理",
+    "Difficulty": "cet6",
+    "RootPrefix": "cop"
+  },
+  {
+    "Word": "core",
+    "Chinese": "核心；中心",
+    "Difficulty": "cet6",
+    "RootPrefix": "cor"
+  },
+  {
+    "Word": "corporate",
+    "Chinese": "公司的；法人的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cor"
+  },
+  {
+    "Word": "correspond",
+    "Chinese": "对应；通信",
+    "Difficulty": "cet6",
+    "RootPrefix": "cor"
+  },
+  {
+    "Word": "council",
+    "Chinese": "理事会；委员会",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "counsel",
+    "Chinese": "劝告；法律顾问",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "count",
+    "Chinese": "计算；计数",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "counter",
+    "Chinese": "柜台；反驳",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "couple",
+    "Chinese": "夫妻；一对",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "courage",
+    "Chinese": "勇气；胆量",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "course",
+    "Chinese": "课程；过程",
+    "Difficulty": "cet6",
+    "RootPrefix": "cou"
+  },
+  {
+    "Word": "crash",
+    "Chinese": "撞碎；坠毁",
+    "Difficulty": "cet6",
+    "RootPrefix": "cra"
+  },
+  {
+    "Word": "create",
+    "Chinese": "创造；创建",
+    "Difficulty": "cet6",
+    "RootPrefix": "cre"
+  },
+  {
+    "Word": "credit",
+    "Chinese": "信用；学分",
+    "Difficulty": "cet6",
+    "RootPrefix": "cre"
+  },
+  {
+    "Word": "crew",
+    "Chinese": "全体人员；机组",
+    "Difficulty": "cet6",
+    "RootPrefix": "cre"
+  },
+  {
+    "Word": "crime",
+    "Chinese": "罪行；犯罪",
+    "Difficulty": "cet6",
+    "RootPrefix": "cri"
+  },
+  {
+    "Word": "crisis",
+    "Chinese": "危机；紧要关头",
+    "Difficulty": "cet6",
+    "RootPrefix": "cri"
+  },
+  {
+    "Word": "criterion",
+    "Chinese": "标准；准则",
+    "Difficulty": "cet6",
+    "RootPrefix": "cri"
+  },
+  {
+    "Word": "critical",
+    "Chinese": "批评的；关键的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cri"
+  },
+  {
+    "Word": "crucial",
+    "Chinese": "至关重要的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cru"
+  },
+  {
+    "Word": "cultivate",
+    "Chinese": "培养；耕作",
+    "Difficulty": "cet6",
+    "RootPrefix": "cul"
+  },
+  {
+    "Word": "culture",
+    "Chinese": "文化；文明",
+    "Difficulty": "cet6",
+    "RootPrefix": "cul"
+  },
+  {
+    "Word": "curious",
+    "Chinese": "好奇的；奇特的",
+    "Difficulty": "cet6",
+    "RootPrefix": "cur"
+  },
+  {
+    "Word": "current",
+    "Chinese": "当前的；电流",
+    "Difficulty": "cet6",
+    "RootPrefix": "cur"
+  },
+  {
+    "Word": "curriculum",
+    "Chinese": "课程",
+    "Difficulty": "cet6",
+    "RootPrefix": "cur"
+  },
+  {
+    "Word": "custom",
+    "Chinese": "习俗；海关",
+    "Difficulty": "cet6",
+    "RootPrefix": "cus"
+  },
+  {
+    "Word": "cycle",
+    "Chinese": "循环；周期",
+    "Difficulty": "cet6",
+    "RootPrefix": "cyc"
+  },
+  {
+    "Word": "damage",
+    "Chinese": "损害；伤害",
+    "Difficulty": "cet6",
+    "RootPrefix": "dam"
+  },
+  {
+    "Word": "deadline",
+    "Chinese": "截止日期",
+    "Difficulty": "cet6",
+    "RootPrefix": "dea"
+  },
+  {
+    "Word": "debate",
+    "Chinese": "辩论；讨论",
+    "Difficulty": "cet6",
+    "RootPrefix": "deb"
+  },
+  {
+    "Word": "debt",
+    "Chinese": "债务；欠款",
+    "Difficulty": "cet6",
+    "RootPrefix": "deb"
+  },
+  {
+    "Word": "decade",
+    "Chinese": "十年",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "decay",
+    "Chinese": "腐烂；衰退",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "deceive",
+    "Chinese": "欺骗；蒙蔽",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "declare",
+    "Chinese": "宣布；声明",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "decline",
+    "Chinese": "下降；拒绝",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "decorate",
+    "Chinese": "装饰；装潢",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "decrease",
+    "Chinese": "减少；降低",
+    "Difficulty": "cet6",
+    "RootPrefix": "dec"
+  },
+  {
+    "Word": "defeat",
+    "Chinese": "击败；战胜",
+    "Difficulty": "cet6",
+    "RootPrefix": "def"
+  },
+  {
+    "Word": "defend",
+    "Chinese": "防御；辩护",
+    "Difficulty": "cet6",
+    "RootPrefix": "def"
+  },
+  {
+    "Word": "define",
+    "Chinese": "定义；界定",
+    "Difficulty": "cet6",
+    "RootPrefix": "def"
+  },
+  {
+    "Word": "definite",
+    "Chinese": "明确的；肯定的",
+    "Difficulty": "cet6",
+    "RootPrefix": "def"
+  },
+  {
+    "Word": "degree",
+    "Chinese": "程度；学位",
+    "Difficulty": "cet6",
+    "RootPrefix": "deg"
+  },
+  {
+    "Word": "delay",
+    "Chinese": "延迟；推迟",
+    "Difficulty": "cet6",
+    "RootPrefix": "del"
+  },
+  {
+    "Word": "delegate",
+    "Chinese": "代表；委派",
+    "Difficulty": "cet6",
+    "RootPrefix": "del"
+  },
+  {
+    "Word": "delete",
+    "Chinese": "删除",
+    "Difficulty": "cet6",
+    "RootPrefix": "del"
+  },
+  {
+    "Word": "deliberate",
+    "Chinese": "故意的；深思熟虑的",
+    "Difficulty": "cet6",
+    "RootPrefix": "del"
+  },
+  {
+    "Word": "delicate",
+    "Chinese": "精致的；微妙的",
+    "Difficulty": "cet6",
+    "RootPrefix": "del"
+  },
+  {
+    "Word": "deliver",
+    "Chinese": "递送；发表",
+    "Difficulty": "cet6",
+    "RootPrefix": "del"
+  },
+  {
+    "Word": "demand",
+    "Chinese": "要求；需求",
+    "Difficulty": "cet6",
+    "RootPrefix": "dem"
+  },
+  {
+    "Word": "democracy",
+    "Chinese": "民主；民主制度",
+    "Difficulty": "cet6",
+    "RootPrefix": "dem"
+  },
+  {
+    "Word": "demonstrate",
+    "Chinese": "证明；演示",
+    "Difficulty": "cet6",
+    "RootPrefix": "dem"
+  },
+  {
+    "Word": "dense",
+    "Chinese": "密集的；浓厚的",
+    "Difficulty": "cet6",
+    "RootPrefix": "den"
+  },
+  {
+    "Word": "deny",
+    "Chinese": "否认；拒绝",
+    "Difficulty": "cet6",
+    "RootPrefix": "den"
+  },
+  {
+    "Word": "depart",
+    "Chinese": "离开；出发",
+    "Difficulty": "cet6",
+    "RootPrefix": "dep"
+  },
+  {
+    "Word": "depend",
+    "Chinese": "依赖；取决于",
+    "Difficulty": "cet6",
+    "RootPrefix": "dep"
+  },
+  {
+    "Word": "depict",
+    "Chinese": "描绘；描述",
+    "Difficulty": "cet6",
+    "RootPrefix": "dep"
+  },
+  {
+    "Word": "deposit",
+    "Chinese": "存款；押金",
+    "Difficulty": "cet6",
+    "RootPrefix": "dep"
+  },
+  {
+    "Word": "depress",
+    "Chinese": "使沮丧；压低",
+    "Difficulty": "cet6",
+    "RootPrefix": "dep"
+  },
+  {
+    "Word": "deprive",
+    "Chinese": "剥夺；使丧失",
+    "Difficulty": "cet6",
+    "RootPrefix": "dep"
+  },
+  {
+    "Word": "derive",
+    "Chinese": "源自；得到",
+    "Difficulty": "cet6",
+    "RootPrefix": "der"
+  },
+  {
+    "Word": "describe",
+    "Chinese": "描述；形容",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "deserve",
+    "Chinese": "值得；应得",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "design",
+    "Chinese": "设计；图案",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "desirable",
+    "Chinese": "可取的；令人满意的",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "desperate",
+    "Chinese": "绝望的；不顾一切的",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "despite",
+    "Chinese": "尽管；不管",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "destination",
+    "Chinese": "目的地；终点",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "destroy",
+    "Chinese": "破坏；毁灭",
+    "Difficulty": "cet6",
+    "RootPrefix": "des"
+  },
+  {
+    "Word": "detail",
+    "Chinese": "细节；详情",
+    "Difficulty": "cet6",
+    "RootPrefix": "det"
+  },
+  {
+    "Word": "detect",
+    "Chinese": "发现；探测",
+    "Difficulty": "cet6",
+    "RootPrefix": "det"
+  },
+  {
+    "Word": "determine",
+    "Chinese": "决定；确定",
+    "Difficulty": "cet6",
+    "RootPrefix": "det"
+  },
+  {
+    "Word": "device",
+    "Chinese": "设备；装置",
+    "Difficulty": "cet6",
+    "RootPrefix": "dev"
+  },
+  {
+    "Word": "devote",
+    "Chinese": "致力于；奉献",
+    "Difficulty": "cet6",
+    "RootPrefix": "dev"
+  },
+  {
+    "Word": "dimension",
+    "Chinese": "维度；尺寸",
+    "Difficulty": "cet6",
+    "RootPrefix": "dim"
+  },
+  {
+    "Word": "diplomatic",
+    "Chinese": "外交的；有策略的",
+    "Difficulty": "cet6",
+    "RootPrefix": "dip"
+  },
+  {
+    "Word": "disaster",
+    "Chinese": "灾难；灾祸",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "discipline",
+    "Chinese": "纪律；学科",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "discount",
+    "Chinese": "折扣",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "display",
+    "Chinese": "展示；显示",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "dispose",
+    "Chinese": "处理；处置",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "dispute",
+    "Chinese": "争论；纠纷",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "dissolve",
+    "Chinese": "溶解；解散",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "distinct",
+    "Chinese": "不同的；明显的",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "distinguish",
+    "Chinese": "区分；辨别",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "distribute",
+    "Chinese": "分发；分配",
+    "Difficulty": "cet6",
+    "RootPrefix": "dis"
+  },
+  {
+    "Word": "diverse",
+    "Chinese": "多样的；不同的",
+    "Difficulty": "cet6",
+    "RootPrefix": "div"
+  },
+  {
+    "Word": "document",
+    "Chinese": "文件；记录",
+    "Difficulty": "cet6",
+    "RootPrefix": "doc"
+  },
+  {
+    "Word": "domestic",
+    "Chinese": "国内的；家庭的",
+    "Difficulty": "cet6",
+    "RootPrefix": "dom"
+  },
+  {
+    "Word": "dominate",
+    "Chinese": "主导；支配",
+    "Difficulty": "cet6",
+    "RootPrefix": "dom"
+  },
+  {
+    "Word": "donation",
+    "Chinese": "捐赠；捐款",
+    "Difficulty": "cet6",
+    "RootPrefix": "don"
+  },
+  {
+    "Word": "draft",
+    "Chinese": "草稿；草案",
+    "Difficulty": "cet6",
+    "RootPrefix": "dra"
+  },
+  {
+    "Word": "drain",
+    "Chinese": "排水；耗尽",
+    "Difficulty": "cet6",
+    "RootPrefix": "dra"
+  },
+  {
+    "Word": "dramatic",
+    "Chinese": "戏剧性的；巨大的",
+    "Difficulty": "cet6",
+    "RootPrefix": "dra"
+  },
+  {
+    "Word": "drift",
+    "Chinese": "漂流；趋势",
+    "Difficulty": "cet6",
+    "RootPrefix": "dri"
+  },
+  {
+    "Word": "durable",
+    "Chinese": "耐用的；持久的",
+    "Difficulty": "cet6",
+    "RootPrefix": "dur"
+  },
+  {
+    "Word": "dynamic",
+    "Chinese": "动态的；有活力的",
+    "Difficulty": "cet6",
+    "RootPrefix": "dyn"
+  },
+  {
+    "Word": "earnest",
+    "Chinese": "认真的；诚挚的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ear"
+  },
+  {
+    "Word": "echo",
+    "Chinese": "回声；共鸣",
+    "Difficulty": "cet6",
+    "RootPrefix": "ech"
+  },
+  {
+    "Word": "economy",
+    "Chinese": "经济；节约",
+    "Difficulty": "cet6",
+    "RootPrefix": "eco"
+  },
+  {
+    "Word": "edition",
+    "Chinese": "版本；版次",
+    "Difficulty": "cet6",
+    "RootPrefix": "edi"
+  },
+  {
+    "Word": "effect",
+    "Chinese": "效果；影响",
+    "Difficulty": "cet6",
+    "RootPrefix": "eff"
+  },
+  {
+    "Word": "efficient",
+    "Chinese": "高效的；有效率的",
+    "Difficulty": "cet6",
+    "RootPrefix": "eff"
+  },
+  {
+    "Word": "elaborate",
+    "Chinese": "精心制作的；详细阐述",
+    "Difficulty": "cet6",
+    "RootPrefix": "ela"
+  },
+  {
+    "Word": "election",
+    "Chinese": "选举；当选",
+    "Difficulty": "cet6",
+    "RootPrefix": "ele"
+  },
+  {
+    "Word": "element",
+    "Chinese": "元素；要素",
+    "Difficulty": "cet6",
+    "RootPrefix": "ele"
+  },
+  {
+    "Word": "eliminate",
+    "Chinese": "消除；淘汰",
+    "Difficulty": "cet6",
+    "RootPrefix": "eli"
+  },
+  {
+    "Word": "embarrass",
+    "Chinese": "使尴尬；使窘迫",
+    "Difficulty": "cet6",
+    "RootPrefix": "emb"
+  },
+  {
+    "Word": "embrace",
+    "Chinese": "拥抱；包含",
+    "Difficulty": "cet6",
+    "RootPrefix": "emb"
+  },
+  {
+    "Word": "emerge",
+    "Chinese": "出现；浮现",
+    "Difficulty": "cet6",
+    "RootPrefix": "eme"
+  },
+  {
+    "Word": "emergency",
+    "Chinese": "紧急情况；突发事件",
+    "Difficulty": "cet6",
+    "RootPrefix": "eme"
+  },
+  {
+    "Word": "emission",
+    "Chinese": "排放；发射",
+    "Difficulty": "cet6",
+    "RootPrefix": "emi"
+  },
+  {
+    "Word": "emotion",
+    "Chinese": "情感；情绪",
+    "Difficulty": "cet6",
+    "RootPrefix": "emo"
+  },
+  {
+    "Word": "emphasis",
+    "Chinese": "强调；重点",
+    "Difficulty": "cet6",
+    "RootPrefix": "emp"
+  },
+  {
+    "Word": "employ",
+    "Chinese": "雇用；使用",
+    "Difficulty": "cet6",
+    "RootPrefix": "emp"
+  },
+  {
+    "Word": "enable",
+    "Chinese": "使能够；启用",
+    "Difficulty": "cet6",
+    "RootPrefix": "ena"
+  },
+  {
+    "Word": "encounter",
+    "Chinese": "遇见；遭遇",
+    "Difficulty": "cet6",
+    "RootPrefix": "enc"
+  },
+  {
+    "Word": "encourage",
+    "Chinese": "鼓励；激励",
+    "Difficulty": "cet6",
+    "RootPrefix": "enc"
+  },
+  {
+    "Word": "enforce",
+    "Chinese": "执行；强制",
+    "Difficulty": "cet6",
+    "RootPrefix": "enf"
+  },
+  {
+    "Word": "engage",
+    "Chinese": "参与；吸引",
+    "Difficulty": "cet6",
+    "RootPrefix": "eng"
+  },
+  {
+    "Word": "engine",
+    "Chinese": "引擎；发动机",
+    "Difficulty": "cet6",
+    "RootPrefix": "eng"
+  },
+  {
+    "Word": "enhance",
+    "Chinese": "增强；提高",
+    "Difficulty": "cet6",
+    "RootPrefix": "enh"
+  },
+  {
+    "Word": "enormous",
+    "Chinese": "巨大的；庞大的",
+    "Difficulty": "cet6",
+    "RootPrefix": "eno"
+  },
+  {
+    "Word": "ensure",
+    "Chinese": "确保；保证",
+    "Difficulty": "cet6",
+    "RootPrefix": "ens"
+  },
+  {
+    "Word": "enterprise",
+    "Chinese": "企业；事业",
+    "Difficulty": "cet6",
+    "RootPrefix": "ent"
+  },
+  {
+    "Word": "entertain",
+    "Chinese": "娱乐；招待",
+    "Difficulty": "cet6",
+    "RootPrefix": "ent"
+  },
+  {
+    "Word": "enthusiasm",
+    "Chinese": "热情；热忱",
+    "Difficulty": "cet6",
+    "RootPrefix": "ent"
+  },
+  {
+    "Word": "entitle",
+    "Chinese": "给…权利；题名",
+    "Difficulty": "cet6",
+    "RootPrefix": "ent"
+  },
+  {
+    "Word": "environment",
+    "Chinese": "环境；周围",
+    "Difficulty": "cet6",
+    "RootPrefix": "env"
+  },
+  {
+    "Word": "episode",
+    "Chinese": "插曲；一集",
+    "Difficulty": "cet6",
+    "RootPrefix": "epi"
+  },
+  {
+    "Word": "equal",
+    "Chinese": "平等的；等于",
+    "Difficulty": "cet6",
+    "RootPrefix": "equ"
+  },
+  {
+    "Word": "equip",
+    "Chinese": "装备；配备",
+    "Difficulty": "cet6",
+    "RootPrefix": "equ"
+  },
+  {
+    "Word": "equivalent",
+    "Chinese": "等价的；等同物",
+    "Difficulty": "cet6",
+    "RootPrefix": "equ"
+  },
+  {
+    "Word": "essential",
+    "Chinese": "必要的；本质的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ess"
+  },
+  {
+    "Word": "establish",
+    "Chinese": "建立；确立",
+    "Difficulty": "cet6",
+    "RootPrefix": "est"
+  },
+  {
+    "Word": "estate",
+    "Chinese": "财产；房地产",
+    "Difficulty": "cet6",
+    "RootPrefix": "est"
+  },
+  {
+    "Word": "estimate",
+    "Chinese": "估计；估算",
+    "Difficulty": "cet6",
+    "RootPrefix": "est"
+  },
+  {
+    "Word": "evaluate",
+    "Chinese": "评估；评价",
+    "Difficulty": "cet6",
+    "RootPrefix": "eva"
+  },
+  {
+    "Word": "evidence",
+    "Chinese": "证据；证明",
+    "Difficulty": "cet6",
+    "RootPrefix": "evi"
+  },
+  {
+    "Word": "evident",
+    "Chinese": "明显的；显然的",
+    "Difficulty": "cet6",
+    "RootPrefix": "evi"
+  },
+  {
+    "Word": "evil",
+    "Chinese": "邪恶的；罪恶",
+    "Difficulty": "cet6",
+    "RootPrefix": "evi"
+  },
+  {
+    "Word": "evolution",
+    "Chinese": "进化；演变",
+    "Difficulty": "cet6",
+    "RootPrefix": "evo"
+  },
+  {
+    "Word": "exaggerate",
+    "Chinese": "夸张；夸大",
+    "Difficulty": "cet6",
+    "RootPrefix": "exa"
+  },
+  {
+    "Word": "examine",
+    "Chinese": "检查；审查",
+    "Difficulty": "cet6",
+    "RootPrefix": "exa"
+  },
+  {
+    "Word": "exceed",
+    "Chinese": "超过；超越",
+    "Difficulty": "cet6",
+    "RootPrefix": "exc"
+  },
+  {
+    "Word": "exception",
+    "Chinese": "例外；除外",
+    "Difficulty": "cet6",
+    "RootPrefix": "exc"
+  },
+  {
+    "Word": "excess",
+    "Chinese": "过量；超过",
+    "Difficulty": "cet6",
+    "RootPrefix": "exc"
+  },
+  {
+    "Word": "exchange",
+    "Chinese": "交换；兑换",
+    "Difficulty": "cet6",
+    "RootPrefix": "exc"
+  },
+  {
+    "Word": "excite",
+    "Chinese": "使兴奋；激发",
+    "Difficulty": "cet6",
+    "RootPrefix": "exc"
+  },
+  {
+    "Word": "exclude",
+    "Chinese": "排除；排斥",
+    "Difficulty": "cet6",
+    "RootPrefix": "exc"
+  },
+  {
+    "Word": "execute",
+    "Chinese": "执行；实施",
+    "Difficulty": "cet6",
+    "RootPrefix": "exe"
+  },
+  {
+    "Word": "exhaust",
+    "Chinese": "耗尽；排气",
+    "Difficulty": "cet6",
+    "RootPrefix": "exh"
+  },
+  {
+    "Word": "exhibit",
+    "Chinese": "展览；展示",
+    "Difficulty": "cet6",
+    "RootPrefix": "exh"
+  },
+  {
+    "Word": "exist",
+    "Chinese": "存在；生存",
+    "Difficulty": "cet6",
+    "RootPrefix": "exi"
+  },
+  {
+    "Word": "expand",
+    "Chinese": "扩张；扩展",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "expect",
+    "Chinese": "期待；预期",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "expense",
+    "Chinese": "开支；费用",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "experiment",
+    "Chinese": "实验；试验",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "expert",
+    "Chinese": "专家；内行的",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "explain",
+    "Chinese": "解释；说明",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "explicit",
+    "Chinese": "明确的；直白的",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "exploit",
+    "Chinese": "开发；剥削",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "explore",
+    "Chinese": "探索；探究",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "export",
+    "Chinese": "出口；输出",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "expose",
+    "Chinese": "暴露；揭露",
+    "Difficulty": "cet6",
+    "RootPrefix": "exp"
+  },
+  {
+    "Word": "extend",
+    "Chinese": "延伸；扩大",
+    "Difficulty": "cet6",
+    "RootPrefix": "ext"
+  },
+  {
+    "Word": "extensive",
+    "Chinese": "广泛的；大量的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ext"
+  },
+  {
+    "Word": "extent",
+    "Chinese": "程度；范围",
+    "Difficulty": "cet6",
+    "RootPrefix": "ext"
+  },
+  {
+    "Word": "external",
+    "Chinese": "外部的；外面的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ext"
+  },
+  {
+    "Word": "extraordinary",
+    "Chinese": "非凡的；特别的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ext"
+  },
+  {
+    "Word": "extreme",
+    "Chinese": "极端的；极端",
+    "Difficulty": "cet6",
+    "RootPrefix": "ext"
+  },
+  {
+    "Word": "facility",
+    "Chinese": "设施；设备",
+    "Difficulty": "cet6",
+    "RootPrefix": "fac"
+  },
+  {
+    "Word": "factor",
+    "Chinese": "因素；要素",
+    "Difficulty": "cet6",
+    "RootPrefix": "fac"
+  },
+  {
+    "Word": "faculty",
+    "Chinese": "能力；全体教员",
+    "Difficulty": "cet6",
+    "RootPrefix": "fac"
+  },
+  {
+    "Word": "fade",
+    "Chinese": "褪色；逐渐消失",
+    "Difficulty": "cet6",
+    "RootPrefix": "fad"
+  },
+  {
+    "Word": "failure",
+    "Chinese": "失败；故障",
+    "Difficulty": "cet6",
+    "RootPrefix": "fai"
+  },
+  {
+    "Word": "faith",
+    "Chinese": "信仰；信心",
+    "Difficulty": "cet6",
+    "RootPrefix": "fai"
+  },
+  {
+    "Word": "fancy",
+    "Chinese": "幻想；精致的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fan"
+  },
+  {
+    "Word": "fashion",
+    "Chinese": "时尚；方式",
+    "Difficulty": "cet6",
+    "RootPrefix": "fas"
+  },
+  {
+    "Word": "fatal",
+    "Chinese": "致命的；毁灭性的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fat"
+  },
+  {
+    "Word": "fault",
+    "Chinese": "错误；缺点",
+    "Difficulty": "cet6",
+    "RootPrefix": "fau"
+  },
+  {
+    "Word": "favour",
+    "Chinese": "喜爱；支持",
+    "Difficulty": "cet6",
+    "RootPrefix": "fav"
+  },
+  {
+    "Word": "feasible",
+    "Chinese": "可行的；可能的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fea"
+  },
+  {
+    "Word": "feature",
+    "Chinese": "特征；特写",
+    "Difficulty": "cet6",
+    "RootPrefix": "fea"
+  },
+  {
+    "Word": "federal",
+    "Chinese": "联邦的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fed"
+  },
+  {
+    "Word": "fiction",
+    "Chinese": "小说；虚构",
+    "Difficulty": "cet6",
+    "RootPrefix": "fic"
+  },
+  {
+    "Word": "fierce",
+    "Chinese": "凶猛的；激烈的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fie"
+  },
+  {
+    "Word": "figure",
+    "Chinese": "数字；人物",
+    "Difficulty": "cet6",
+    "RootPrefix": "fig"
+  },
+  {
+    "Word": "finance",
+    "Chinese": "财政；金融",
+    "Difficulty": "cet6",
+    "RootPrefix": "fin"
+  },
+  {
+    "Word": "flavour",
+    "Chinese": "风味；滋味",
+    "Difficulty": "cet6",
+    "RootPrefix": "fla"
+  },
+  {
+    "Word": "flexible",
+    "Chinese": "灵活的；弹性的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fle"
+  },
+  {
+    "Word": "flourish",
+    "Chinese": "繁荣；兴旺",
+    "Difficulty": "cet6",
+    "RootPrefix": "flo"
+  },
+  {
+    "Word": "focus",
+    "Chinese": "焦点；集中",
+    "Difficulty": "cet6",
+    "RootPrefix": "foc"
+  },
+  {
+    "Word": "forecast",
+    "Chinese": "预测；预报",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "foreign",
+    "Chinese": "外国的；陌生的",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "formal",
+    "Chinese": "正式的；形式的",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "format",
+    "Chinese": "格式；版式",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "former",
+    "Chinese": "从前的；前者",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "formula",
+    "Chinese": "公式；配方",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "fortune",
+    "Chinese": "财富；运气",
+    "Difficulty": "cet6",
+    "RootPrefix": "for"
+  },
+  {
+    "Word": "foundation",
+    "Chinese": "基础；基金会",
+    "Difficulty": "cet6",
+    "RootPrefix": "fou"
+  },
+  {
+    "Word": "fraction",
+    "Chinese": "小部分；分数",
+    "Difficulty": "cet6",
+    "RootPrefix": "fra"
+  },
+  {
+    "Word": "fragile",
+    "Chinese": "易碎的；脆弱的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fra"
+  },
+  {
+    "Word": "framework",
+    "Chinese": "框架；结构",
+    "Difficulty": "cet6",
+    "RootPrefix": "fra"
+  },
+  {
+    "Word": "frequency",
+    "Chinese": "频率；频繁",
+    "Difficulty": "cet6",
+    "RootPrefix": "fre"
+  },
+  {
+    "Word": "frontier",
+    "Chinese": "边境；前沿",
+    "Difficulty": "cet6",
+    "RootPrefix": "fro"
+  },
+  {
+    "Word": "fulfill",
+    "Chinese": "完成；实现",
+    "Difficulty": "cet6",
+    "RootPrefix": "ful"
+  },
+  {
+    "Word": "function",
+    "Chinese": "功能；函数",
+    "Difficulty": "cet6",
+    "RootPrefix": "fun"
+  },
+  {
+    "Word": "fund",
+    "Chinese": "基金；资助",
+    "Difficulty": "cet6",
+    "RootPrefix": "fun"
+  },
+  {
+    "Word": "fundamental",
+    "Chinese": "基本的；根本的",
+    "Difficulty": "cet6",
+    "RootPrefix": "fun"
+  },
+  {
+    "Word": "furthermore",
+    "Chinese": "此外；而且",
+    "Difficulty": "cet6",
+    "RootPrefix": "fur"
+  },
+  {
+    "Word": "generate",
+    "Chinese": "产生；生成",
+    "Difficulty": "cet6",
+    "RootPrefix": "gen"
+  },
+  {
+    "Word": "generous",
+    "Chinese": "慷慨的；大方的",
+    "Difficulty": "cet6",
+    "RootPrefix": "gen"
+  },
+  {
+    "Word": "genius",
+    "Chinese": "天才；天赋",
+    "Difficulty": "cet6",
+    "RootPrefix": "gen"
+  },
+  {
+    "Word": "genuine",
+    "Chinese": "真正的；真诚的",
+    "Difficulty": "cet6",
+    "RootPrefix": "gen"
+  },
+  {
+    "Word": "gesture",
+    "Chinese": "手势；姿态",
+    "Difficulty": "cet6",
+    "RootPrefix": "ges"
+  },
+  {
+    "Word": "global",
+    "Chinese": "全球的；全局的",
+    "Difficulty": "cet6",
+    "RootPrefix": "glo"
+  },
+  {
+    "Word": "govern",
+    "Chinese": "统治；管理",
+    "Difficulty": "cet6",
+    "RootPrefix": "gov"
+  },
+  {
+    "Word": "grace",
+    "Chinese": "优雅；恩典",
+    "Difficulty": "cet6",
+    "RootPrefix": "gra"
+  },
+  {
+    "Word": "gradual",
+    "Chinese": "逐渐的；渐进的",
+    "Difficulty": "cet6",
+    "RootPrefix": "gra"
+  },
+  {
+    "Word": "grant",
+    "Chinese": "授予；拨款",
+    "Difficulty": "cet6",
+    "RootPrefix": "gra"
+  },
+  {
+    "Word": "grasp",
+    "Chinese": "抓住；理解",
+    "Difficulty": "cet6",
+    "RootPrefix": "gra"
+  },
+  {
+    "Word": "guarantee",
+    "Chinese": "保证；担保",
+    "Difficulty": "cet6",
+    "RootPrefix": "gua"
+  },
+  {
+    "Word": "guidance",
+    "Chinese": "指导；引导",
+    "Difficulty": "cet6",
+    "RootPrefix": "gui"
+  },
+  {
+    "Word": "guilty",
+    "Chinese": "有罪的；内疚的",
+    "Difficulty": "cet6",
+    "RootPrefix": "gui"
+  },
+  {
+    "Word": "halt",
+    "Chinese": "停止；暂停",
+    "Difficulty": "cet6",
+    "RootPrefix": "hal"
+  },
+  {
+    "Word": "handle",
+    "Chinese": "处理；把手",
+    "Difficulty": "cet6",
+    "RootPrefix": "han"
+  },
+  {
+    "Word": "harsh",
+    "Chinese": "严厉的；刺耳的",
+    "Difficulty": "cet6",
+    "RootPrefix": "har"
+  },
+  {
+    "Word": "harvest",
+    "Chinese": "收获；收割",
+    "Difficulty": "cet6",
+    "RootPrefix": "har"
+  },
+  {
+    "Word": "hazard",
+    "Chinese": "危险；危害",
+    "Difficulty": "cet6",
+    "RootPrefix": "haz"
+  },
+  {
+    "Word": "headline",
+    "Chinese": "标题；头条新闻",
+    "Difficulty": "cet6",
+    "RootPrefix": "hea"
+  },
+  {
+    "Word": "highlight",
+    "Chinese": "突出；强调",
+    "Difficulty": "cet6",
+    "RootPrefix": "hig"
+  },
+  {
+    "Word": "horizon",
+    "Chinese": "地平线；视野",
+    "Difficulty": "cet6",
+    "RootPrefix": "hor"
+  },
+  {
+    "Word": "hostile",
+    "Chinese": "敌对的；敌意的",
+    "Difficulty": "cet6",
+    "RootPrefix": "hos"
+  },
+  {
+    "Word": "household",
+    "Chinese": "家庭；户",
+    "Difficulty": "cet6",
+    "RootPrefix": "hou"
+  },
+  {
+    "Word": "ideal",
+    "Chinese": "理想的；理想",
+    "Difficulty": "cet6",
+    "RootPrefix": "ide"
+  },
+  {
+    "Word": "identify",
+    "Chinese": "识别；确认",
+    "Difficulty": "cet6",
+    "RootPrefix": "ide"
+  },
+  {
+    "Word": "ignorance",
+    "Chinese": "无知；愚昧",
+    "Difficulty": "cet6",
+    "RootPrefix": "ign"
+  },
+  {
+    "Word": "illustrate",
+    "Chinese": "说明；插图",
+    "Difficulty": "cet6",
+    "RootPrefix": "ill"
+  },
+  {
+    "Word": "image",
+    "Chinese": "图像；形象",
+    "Difficulty": "cet6",
+    "RootPrefix": "ima"
+  },
+  {
+    "Word": "imagine",
+    "Chinese": "想象；设想",
+    "Difficulty": "cet6",
+    "RootPrefix": "ima"
+  },
+  {
+    "Word": "immediate",
+    "Chinese": "立即的；直接的",
+    "Difficulty": "cet6",
+    "RootPrefix": "imm"
+  },
+  {
+    "Word": "immense",
+    "Chinese": "巨大的；无边的",
+    "Difficulty": "cet6",
+    "RootPrefix": "imm"
+  },
+  {
+    "Word": "immune",
+    "Chinese": "免疫的；不受影响的",
+    "Difficulty": "cet6",
+    "RootPrefix": "imm"
+  },
+  {
+    "Word": "impact",
+    "Chinese": "影响；冲击",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "implement",
+    "Chinese": "实施；工具",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "implication",
+    "Chinese": "含义；暗示",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "imply",
+    "Chinese": "暗示；意味",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "import",
+    "Chinese": "进口；输入",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "impose",
+    "Chinese": "强加；征收",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "impress",
+    "Chinese": "给…留下印象",
+    "Difficulty": "cet6",
+    "RootPrefix": "imp"
+  },
+  {
+    "Word": "incident",
+    "Chinese": "事件；事故",
+    "Difficulty": "cet6",
+    "RootPrefix": "inc"
+  },
+  {
+    "Word": "incline",
+    "Chinese": "倾向于；斜坡",
+    "Difficulty": "cet6",
+    "RootPrefix": "inc"
+  },
+  {
+    "Word": "income",
+    "Chinese": "收入；收益",
+    "Difficulty": "cet6",
+    "RootPrefix": "inc"
+  },
+  {
+    "Word": "incorporate",
+    "Chinese": "包含；合并",
+    "Difficulty": "cet6",
+    "RootPrefix": "inc"
+  },
+  {
+    "Word": "indicate",
+    "Chinese": "表明；指示",
+    "Difficulty": "cet6",
+    "RootPrefix": "ind"
+  },
+  {
+    "Word": "individual",
+    "Chinese": "个人；个体的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ind"
+  },
+  {
+    "Word": "industry",
+    "Chinese": "工业；行业",
+    "Difficulty": "cet6",
+    "RootPrefix": "ind"
+  },
+  {
+    "Word": "inevitable",
+    "Chinese": "不可避免的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ine"
+  },
+  {
+    "Word": "infant",
+    "Chinese": "婴儿；幼儿",
+    "Difficulty": "cet6",
+    "RootPrefix": "inf"
+  },
+  {
+    "Word": "infer",
+    "Chinese": "推断；推论",
+    "Difficulty": "cet6",
+    "RootPrefix": "inf"
+  },
+  {
+    "Word": "inflation",
+    "Chinese": "通货膨胀",
+    "Difficulty": "cet6",
+    "RootPrefix": "inf"
+  },
+  {
+    "Word": "influence",
+    "Chinese": "影响；势力",
+    "Difficulty": "cet6",
+    "RootPrefix": "inf"
+  },
+  {
+    "Word": "inform",
+    "Chinese": "通知；告知",
+    "Difficulty": "cet6",
+    "RootPrefix": "inf"
+  },
+  {
+    "Word": "initial",
+    "Chinese": "最初的；首字母",
+    "Difficulty": "cet6",
+    "RootPrefix": "ini"
+  },
+  {
+    "Word": "initiative",
+    "Chinese": "主动性；倡议",
+    "Difficulty": "cet6",
+    "RootPrefix": "ini"
+  },
+  {
+    "Word": "innocent",
+    "Chinese": "无辜的；天真的",
+    "Difficulty": "cet6",
+    "RootPrefix": "inn"
+  },
+  {
+    "Word": "innovation",
+    "Chinese": "创新；革新",
+    "Difficulty": "cet6",
+    "RootPrefix": "inn"
+  },
+  {
+    "Word": "inquire",
+    "Chinese": "询问；调查",
+    "Difficulty": "cet6",
+    "RootPrefix": "inq"
+  },
+  {
+    "Word": "insert",
+    "Chinese": "插入；嵌入",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "inspect",
+    "Chinese": "检查；视察",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "inspire",
+    "Chinese": "激励；启发",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "install",
+    "Chinese": "安装；设置",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "instance",
+    "Chinese": "实例；情况",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "instinct",
+    "Chinese": "本能；直觉",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "institute",
+    "Chinese": "学院；建立",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "instrument",
+    "Chinese": "仪器；工具",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "insult",
+    "Chinese": "侮辱；辱骂",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "insurance",
+    "Chinese": "保险",
+    "Difficulty": "cet6",
+    "RootPrefix": "ins"
+  },
+  {
+    "Word": "integrate",
+    "Chinese": "整合；融合",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "intellectual",
+    "Chinese": "智力的；知识分子",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "intense",
+    "Chinese": "强烈的；紧张的",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "intention",
+    "Chinese": "意图；目的",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "interact",
+    "Chinese": "互动；相互作用",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "interfere",
+    "Chinese": "干涉；干预",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "interior",
+    "Chinese": "内部；内部的",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "internal",
+    "Chinese": "内部的；国内的",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "interpret",
+    "Chinese": "解读；翻译",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "interval",
+    "Chinese": "间隔；间歇",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "intimate",
+    "Chinese": "亲密的；暗示",
+    "Difficulty": "cet6",
+    "RootPrefix": "int"
+  },
+  {
+    "Word": "invade",
+    "Chinese": "入侵；侵略",
+    "Difficulty": "cet6",
+    "RootPrefix": "inv"
+  },
+  {
+    "Word": "invest",
+    "Chinese": "投资；投入",
+    "Difficulty": "cet6",
+    "RootPrefix": "inv"
+  },
+  {
+    "Word": "investigate",
+    "Chinese": "调查；研究",
+    "Difficulty": "cet6",
+    "RootPrefix": "inv"
+  },
+  {
+    "Word": "invisible",
+    "Chinese": "看不见的；无形的",
+    "Difficulty": "cet6",
+    "RootPrefix": "inv"
+  },
+  {
+    "Word": "involve",
+    "Chinese": "涉及；包含",
+    "Difficulty": "cet6",
+    "RootPrefix": "inv"
+  },
+  {
+    "Word": "isolate",
+    "Chinese": "隔离；孤立",
+    "Difficulty": "cet6",
+    "RootPrefix": "iso"
+  },
+  {
+    "Word": "issue",
+    "Chinese": "问题；发行",
+    "Difficulty": "cet6",
+    "RootPrefix": "iss"
+  },
+  {
+    "Word": "item",
+    "Chinese": "项目；物品",
+    "Difficulty": "cet6",
+    "RootPrefix": "ite"
+  },
+  {
+    "Word": "journal",
+    "Chinese": "期刊；日志",
+    "Difficulty": "cet6",
+    "RootPrefix": "jou"
+  },
+  {
+    "Word": "judgement",
+    "Chinese": "判断；判决",
+    "Difficulty": "cet6",
+    "RootPrefix": "jud"
+  },
+  {
+    "Word": "justice",
+    "Chinese": "正义；司法",
+    "Difficulty": "cet6",
+    "RootPrefix": "jus"
+  },
+  {
+    "Word": "justify",
+    "Chinese": "证明…正当",
+    "Difficulty": "cet6",
+    "RootPrefix": "jus"
+  },
+  {
+    "Word": "keen",
+    "Chinese": "热切的；敏锐的",
+    "Difficulty": "cet6",
+    "RootPrefix": "kee"
+  },
+  {
+    "Word": "label",
+    "Chinese": "标签；标记",
+    "Difficulty": "cet6",
+    "RootPrefix": "lab"
+  },
+  {
+    "Word": "landscape",
+    "Chinese": "风景；景观",
+    "Difficulty": "cet6",
+    "RootPrefix": "lan"
+  },
+  {
+    "Word": "launch",
+    "Chinese": "发射；启动",
+    "Difficulty": "cet6",
+    "RootPrefix": "lau"
+  },
+  {
+    "Word": "layer",
+    "Chinese": "层；层次",
+    "Difficulty": "cet6",
+    "RootPrefix": "lay"
+  },
+  {
+    "Word": "layout",
+    "Chinese": "布局；安排",
+    "Difficulty": "cet6",
+    "RootPrefix": "lay"
+  },
+  {
+    "Word": "leading",
+    "Chinese": "主要的；领导的",
+    "Difficulty": "cet6",
+    "RootPrefix": "lea"
+  },
+  {
+    "Word": "league",
+    "Chinese": "联盟；社团",
+    "Difficulty": "cet6",
+    "RootPrefix": "lea"
+  },
+  {
+    "Word": "legislation",
+    "Chinese": "立法；法规",
+    "Difficulty": "cet6",
+    "RootPrefix": "leg"
+  },
+  {
+    "Word": "liable",
+    "Chinese": "有责任的；可能的",
+    "Difficulty": "cet6",
+    "RootPrefix": "lia"
+  },
+  {
+    "Word": "liberal",
+    "Chinese": "自由的；开明的",
+    "Difficulty": "cet6",
+    "RootPrefix": "lib"
+  },
+  {
+    "Word": "licence",
+    "Chinese": "许可证；执照",
+    "Difficulty": "cet6",
+    "RootPrefix": "lic"
+  },
+  {
+    "Word": "likewise",
+    "Chinese": "同样地；也",
+    "Difficulty": "cet6",
+    "RootPrefix": "lik"
+  },
+  {
+    "Word": "limitation",
+    "Chinese": "限制；局限",
+    "Difficulty": "cet6",
+    "RootPrefix": "lim"
+  },
+  {
+    "Word": "link",
+    "Chinese": "链接；联系",
+    "Difficulty": "cet6",
+    "RootPrefix": "lin"
+  },
+  {
+    "Word": "literary",
+    "Chinese": "文学的",
+    "Difficulty": "cet6",
+    "RootPrefix": "lit"
+  },
+  {
+    "Word": "loan",
+    "Chinese": "贷款；借出",
+    "Difficulty": "cet6",
+    "RootPrefix": "loa"
+  },
+  {
+    "Word": "locate",
+    "Chinese": "找到；位于",
+    "Difficulty": "cet6",
+    "RootPrefix": "loc"
+  },
+  {
+    "Word": "logic",
+    "Chinese": "逻辑；推理",
+    "Difficulty": "cet6",
+    "RootPrefix": "log"
+  },
+  {
+    "Word": "loyalty",
+    "Chinese": "忠诚；忠心",
+    "Difficulty": "cet6",
+    "RootPrefix": "loy"
+  },
+  {
+    "Word": "luxury",
+    "Chinese": "奢侈；奢侈品",
+    "Difficulty": "cet6",
+    "RootPrefix": "lux"
+  },
+  {
+    "Word": "magnificent",
+    "Chinese": "壮丽的；宏伟的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mag"
+  },
+  {
+    "Word": "maintain",
+    "Chinese": "维持；保养",
+    "Difficulty": "cet6",
+    "RootPrefix": "mai"
+  },
+  {
+    "Word": "major",
+    "Chinese": "主要的；专业",
+    "Difficulty": "cet6",
+    "RootPrefix": "maj"
+  },
+  {
+    "Word": "manage",
+    "Chinese": "管理；设法",
+    "Difficulty": "cet6",
+    "RootPrefix": "man"
+  },
+  {
+    "Word": "manifest",
+    "Chinese": "明显的；表明",
+    "Difficulty": "cet6",
+    "RootPrefix": "man"
+  },
+  {
+    "Word": "manipulate",
+    "Chinese": "操纵；操作",
+    "Difficulty": "cet6",
+    "RootPrefix": "man"
+  },
+  {
+    "Word": "manufacture",
+    "Chinese": "制造；生产",
+    "Difficulty": "cet6",
+    "RootPrefix": "man"
+  },
+  {
+    "Word": "margin",
+    "Chinese": "边缘；利润",
+    "Difficulty": "cet6",
+    "RootPrefix": "mar"
+  },
+  {
+    "Word": "massive",
+    "Chinese": "大量的；巨大的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mas"
+  },
+  {
+    "Word": "mature",
+    "Chinese": "成熟的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mat"
+  },
+  {
+    "Word": "maximum",
+    "Chinese": "最大的；最大值",
+    "Difficulty": "cet6",
+    "RootPrefix": "max"
+  },
+  {
+    "Word": "mechanism",
+    "Chinese": "机制；机械",
+    "Difficulty": "cet6",
+    "RootPrefix": "mec"
+  },
+  {
+    "Word": "medium",
+    "Chinese": "中等的；媒介",
+    "Difficulty": "cet6",
+    "RootPrefix": "med"
+  },
+  {
+    "Word": "mental",
+    "Chinese": "精神的；心理的",
+    "Difficulty": "cet6",
+    "RootPrefix": "men"
+  },
+  {
+    "Word": "mercy",
+    "Chinese": "仁慈；宽恕",
+    "Difficulty": "cet6",
+    "RootPrefix": "mer"
+  },
+  {
+    "Word": "merit",
+    "Chinese": "优点；价值",
+    "Difficulty": "cet6",
+    "RootPrefix": "mer"
+  },
+  {
+    "Word": "migrate",
+    "Chinese": "迁移；移居",
+    "Difficulty": "cet6",
+    "RootPrefix": "mig"
+  },
+  {
+    "Word": "mild",
+    "Chinese": "温和的；轻微的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mil"
+  },
+  {
+    "Word": "military",
+    "Chinese": "军事的；军队",
+    "Difficulty": "cet6",
+    "RootPrefix": "mil"
+  },
+  {
+    "Word": "minimum",
+    "Chinese": "最小的；最小值",
+    "Difficulty": "cet6",
+    "RootPrefix": "min"
+  },
+  {
+    "Word": "ministry",
+    "Chinese": "部；内阁",
+    "Difficulty": "cet6",
+    "RootPrefix": "min"
+  },
+  {
+    "Word": "minor",
+    "Chinese": "较小的；未成年人",
+    "Difficulty": "cet6",
+    "RootPrefix": "min"
+  },
+  {
+    "Word": "miracle",
+    "Chinese": "奇迹",
+    "Difficulty": "cet6",
+    "RootPrefix": "mir"
+  },
+  {
+    "Word": "miserable",
+    "Chinese": "痛苦的；悲惨的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mis"
+  },
+  {
+    "Word": "mission",
+    "Chinese": "任务；使命",
+    "Difficulty": "cet6",
+    "RootPrefix": "mis"
+  },
+  {
+    "Word": "mobile",
+    "Chinese": "移动的；手机",
+    "Difficulty": "cet6",
+    "RootPrefix": "mob"
+  },
+  {
+    "Word": "moderate",
+    "Chinese": "适度的；温和的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mod"
+  },
+  {
+    "Word": "modest",
+    "Chinese": "谦虚的；适度的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mod"
+  },
+  {
+    "Word": "modify",
+    "Chinese": "修改；调整",
+    "Difficulty": "cet6",
+    "RootPrefix": "mod"
+  },
+  {
+    "Word": "monitor",
+    "Chinese": "监视；显示器",
+    "Difficulty": "cet6",
+    "RootPrefix": "mon"
+  },
+  {
+    "Word": "mood",
+    "Chinese": "心情；情绪",
+    "Difficulty": "cet6",
+    "RootPrefix": "moo"
+  },
+  {
+    "Word": "moral",
+    "Chinese": "道德的；道德",
+    "Difficulty": "cet6",
+    "RootPrefix": "mor"
+  },
+  {
+    "Word": "motion",
+    "Chinese": "运动；动作",
+    "Difficulty": "cet6",
+    "RootPrefix": "mot"
+  },
+  {
+    "Word": "motivate",
+    "Chinese": "激励；激发",
+    "Difficulty": "cet6",
+    "RootPrefix": "mot"
+  },
+  {
+    "Word": "mount",
+    "Chinese": "登上；安装",
+    "Difficulty": "cet6",
+    "RootPrefix": "mou"
+  },
+  {
+    "Word": "multiple",
+    "Chinese": "多重的；倍数",
+    "Difficulty": "cet6",
+    "RootPrefix": "mul"
+  },
+  {
+    "Word": "mutual",
+    "Chinese": "相互的；共同的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mut"
+  },
+  {
+    "Word": "mysterious",
+    "Chinese": "神秘的；不可思议的",
+    "Difficulty": "cet6",
+    "RootPrefix": "mys"
+  },
+  {
+    "Word": "negative",
+    "Chinese": "消极的；否定的",
+    "Difficulty": "cet6",
+    "RootPrefix": "neg"
+  },
+  {
+    "Word": "neglect",
+    "Chinese": "忽视；疏忽",
+    "Difficulty": "cet6",
+    "RootPrefix": "neg"
+  },
+  {
+    "Word": "negotiate",
+    "Chinese": "谈判；协商",
+    "Difficulty": "cet6",
+    "RootPrefix": "neg"
+  },
+  {
+    "Word": "network",
+    "Chinese": "网络；关系网",
+    "Difficulty": "cet6",
+    "RootPrefix": "net"
+  },
+  {
+    "Word": "neutral",
+    "Chinese": "中立的；中性的",
+    "Difficulty": "cet6",
+    "RootPrefix": "neu"
+  },
+  {
+    "Word": "nevertheless",
+    "Chinese": "然而；不过",
+    "Difficulty": "cet6",
+    "RootPrefix": "nev"
+  },
+  {
+    "Word": "normal",
+    "Chinese": "正常的；标准的",
+    "Difficulty": "cet6",
+    "RootPrefix": "nor"
+  },
+  {
+    "Word": "notion",
+    "Chinese": "概念；想法",
+    "Difficulty": "cet6",
+    "RootPrefix": "not"
+  },
+  {
+    "Word": "nourish",
+    "Chinese": "滋养；养育",
+    "Difficulty": "cet6",
+    "RootPrefix": "nou"
+  },
+  {
+    "Word": "novel",
+    "Chinese": "新颖的；小说",
+    "Difficulty": "cet6",
+    "RootPrefix": "nov"
+  },
+  {
+    "Word": "nuclear",
+    "Chinese": "核的；核心的",
+    "Difficulty": "cet6",
+    "RootPrefix": "nuc"
+  },
+  {
+    "Word": "numerous",
+    "Chinese": "许多的；大量的",
+    "Difficulty": "cet6",
+    "RootPrefix": "num"
+  },
+  {
+    "Word": "object",
+    "Chinese": "物体；反对",
+    "Difficulty": "cet6",
+    "RootPrefix": "obj"
+  },
+  {
+    "Word": "objective",
+    "Chinese": "目标；客观的",
+    "Difficulty": "cet6",
+    "RootPrefix": "obj"
+  },
+  {
+    "Word": "obligation",
+    "Chinese": "义务；责任",
+    "Difficulty": "cet6",
+    "RootPrefix": "obl"
+  },
+  {
+    "Word": "observe",
+    "Chinese": "观察；遵守",
+    "Difficulty": "cet6",
+    "RootPrefix": "obs"
+  },
+  {
+    "Word": "obstacle",
+    "Chinese": "障碍；阻碍",
+    "Difficulty": "cet6",
+    "RootPrefix": "obs"
+  },
+  {
+    "Word": "obtain",
+    "Chinese": "获得；得到",
+    "Difficulty": "cet6",
+    "RootPrefix": "obt"
+  },
+  {
+    "Word": "obvious",
+    "Chinese": "明显的；显然的",
+    "Difficulty": "cet6",
+    "RootPrefix": "obv"
+  },
+  {
+    "Word": "occasion",
+    "Chinese": "场合；时机",
+    "Difficulty": "cet6",
+    "RootPrefix": "occ"
+  },
+  {
+    "Word": "occupy",
+    "Chinese": "占据；使忙碌",
+    "Difficulty": "cet6",
+    "RootPrefix": "occ"
+  },
+  {
+    "Word": "occur",
+    "Chinese": "发生；出现",
+    "Difficulty": "cet6",
+    "RootPrefix": "occ"
+  },
+  {
+    "Word": "offence",
+    "Chinese": "犯罪；冒犯",
+    "Difficulty": "cet6",
+    "RootPrefix": "off"
+  },
+  {
+    "Word": "offend",
+    "Chinese": "冒犯；得罪",
+    "Difficulty": "cet6",
+    "RootPrefix": "off"
+  },
+  {
+    "Word": "offer",
+    "Chinese": "提供；提议",
+    "Difficulty": "cet6",
+    "RootPrefix": "off"
+  },
+  {
+    "Word": "operate",
+    "Chinese": "操作；运营",
+    "Difficulty": "cet6",
+    "RootPrefix": "ope"
+  },
+  {
+    "Word": "opponent",
+    "Chinese": "对手；反对者",
+    "Difficulty": "cet6",
+    "RootPrefix": "opp"
+  },
+  {
+    "Word": "opportunity",
+    "Chinese": "机会；时机",
+    "Difficulty": "cet6",
+    "RootPrefix": "opp"
+  },
+  {
+    "Word": "oppose",
+    "Chinese": "反对；对抗",
+    "Difficulty": "cet6",
+    "RootPrefix": "opp"
+  },
+  {
+    "Word": "optimistic",
+    "Chinese": "乐观的",
+    "Difficulty": "cet6",
+    "RootPrefix": "opt"
+  },
+  {
+    "Word": "option",
+    "Chinese": "选择；选项",
+    "Difficulty": "cet6",
+    "RootPrefix": "opt"
+  },
+  {
+    "Word": "orbit",
+    "Chinese": "轨道；绕行",
+    "Difficulty": "cet6",
+    "RootPrefix": "orb"
+  },
+  {
+    "Word": "organ",
+    "Chinese": "器官；机构",
+    "Difficulty": "cet6",
+    "RootPrefix": "org"
+  },
+  {
+    "Word": "organize",
+    "Chinese": "组织；安排",
+    "Difficulty": "cet6",
+    "RootPrefix": "org"
+  },
+  {
+    "Word": "origin",
+    "Chinese": "起源；出身",
+    "Difficulty": "cet6",
+    "RootPrefix": "ori"
+  },
+  {
+    "Word": "otherwise",
+    "Chinese": "否则；另外",
+    "Difficulty": "cet6",
+    "RootPrefix": "oth"
+  },
+  {
+    "Word": "outcome",
+    "Chinese": "结果；成果",
+    "Difficulty": "cet6",
+    "RootPrefix": "out"
+  },
+  {
+    "Word": "outline",
+    "Chinese": "大纲；轮廓",
+    "Difficulty": "cet6",
+    "RootPrefix": "out"
+  },
+  {
+    "Word": "output",
+    "Chinese": "产出；输出",
+    "Difficulty": "cet6",
+    "RootPrefix": "out"
+  },
+  {
+    "Word": "overcome",
+    "Chinese": "克服；战胜",
+    "Difficulty": "cet6",
+    "RootPrefix": "ove"
+  },
+  {
+    "Word": "overlook",
+    "Chinese": "俯瞰；忽略",
+    "Difficulty": "cet6",
+    "RootPrefix": "ove"
+  },
+  {
+    "Word": "overseas",
+    "Chinese": "海外的；在海外",
+    "Difficulty": "cet6",
+    "RootPrefix": "ove"
+  },
+  {
+    "Word": "owe",
+    "Chinese": "欠；归功于",
+    "Difficulty": "cet6",
+    "RootPrefix": ""
+  },
+  {
+    "Word": "pace",
+    "Chinese": "步伐；速度",
+    "Difficulty": "cet6",
+    "RootPrefix": "pac"
+  },
+  {
+    "Word": "panel",
+    "Chinese": "面板；小组",
+    "Difficulty": "cet6",
+    "RootPrefix": "pan"
+  },
+  {
+    "Word": "parallel",
+    "Chinese": "平行的；类似",
+    "Difficulty": "cet6",
+    "RootPrefix": "par"
+  },
+  {
+    "Word": "participate",
+    "Chinese": "参与；参加",
+    "Difficulty": "cet6",
+    "RootPrefix": "par"
+  },
+  {
+    "Word": "particular",
+    "Chinese": "特别的；特定的",
+    "Difficulty": "cet6",
+    "RootPrefix": "par"
+  },
+  {
+    "Word": "passion",
+    "Chinese": "热情；激情",
+    "Difficulty": "cet6",
+    "RootPrefix": "pas"
+  },
+  {
+    "Word": "passive",
+    "Chinese": "被动的；消极的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pas"
+  },
+  {
+    "Word": "patent",
+    "Chinese": "专利；专利权",
+    "Difficulty": "cet6",
+    "RootPrefix": "pat"
+  },
+  {
+    "Word": "patience",
+    "Chinese": "耐心；忍耐",
+    "Difficulty": "cet6",
+    "RootPrefix": "pat"
+  },
+  {
+    "Word": "pattern",
+    "Chinese": "模式；图案",
+    "Difficulty": "cet6",
+    "RootPrefix": "pat"
+  },
+  {
+    "Word": "penalty",
+    "Chinese": "惩罚；处罚",
+    "Difficulty": "cet6",
+    "RootPrefix": "pen"
+  },
+  {
+    "Word": "pension",
+    "Chinese": "养老金；退休金",
+    "Difficulty": "cet6",
+    "RootPrefix": "pen"
+  },
+  {
+    "Word": "perceive",
+    "Chinese": "察觉；感知",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "perform",
+    "Chinese": "表演；执行",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "permanent",
+    "Chinese": "永久的；长期的",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "permit",
+    "Chinese": "允许；许可",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "persist",
+    "Chinese": "坚持；持续",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "personality",
+    "Chinese": "个性；人格",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "perspective",
+    "Chinese": "观点；视角",
+    "Difficulty": "cet6",
+    "RootPrefix": "per"
+  },
+  {
+    "Word": "phenomenon",
+    "Chinese": "现象",
+    "Difficulty": "cet6",
+    "RootPrefix": "phe"
+  },
+  {
+    "Word": "philosophy",
+    "Chinese": "哲学",
+    "Difficulty": "cet6",
+    "RootPrefix": "phi"
+  },
+  {
+    "Word": "physical",
+    "Chinese": "身体的；物理的",
+    "Difficulty": "cet6",
+    "RootPrefix": "phy"
+  },
+  {
+    "Word": "pledge",
+    "Chinese": "誓言；保证",
+    "Difficulty": "cet6",
+    "RootPrefix": "ple"
+  },
+  {
+    "Word": "policy",
+    "Chinese": "政策；方针",
+    "Difficulty": "cet6",
+    "RootPrefix": "pol"
+  },
+  {
+    "Word": "pollution",
+    "Chinese": "污染",
+    "Difficulty": "cet6",
+    "RootPrefix": "pol"
+  },
+  {
+    "Word": "portion",
+    "Chinese": "部分；一份",
+    "Difficulty": "cet6",
+    "RootPrefix": "por"
+  },
+  {
+    "Word": "portrait",
+    "Chinese": "肖像；描绘",
+    "Difficulty": "cet6",
+    "RootPrefix": "por"
+  },
+  {
+    "Word": "pose",
+    "Chinese": "姿势；造成",
+    "Difficulty": "cet6",
+    "RootPrefix": "pos"
+  },
+  {
+    "Word": "positive",
+    "Chinese": "积极的；肯定的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pos"
+  },
+  {
+    "Word": "possess",
+    "Chinese": "拥有；具有",
+    "Difficulty": "cet6",
+    "RootPrefix": "pos"
+  },
+  {
+    "Word": "potential",
+    "Chinese": "潜在的；潜力",
+    "Difficulty": "cet6",
+    "RootPrefix": "pot"
+  },
+  {
+    "Word": "poverty",
+    "Chinese": "贫穷；贫困",
+    "Difficulty": "cet6",
+    "RootPrefix": "pov"
+  },
+  {
+    "Word": "practical",
+    "Chinese": "实际的；实用的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pra"
+  },
+  {
+    "Word": "precaution",
+    "Chinese": "预防；警惕",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "precise",
+    "Chinese": "精确的；准确的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "predict",
+    "Chinese": "预测；预言",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "prefer",
+    "Chinese": "更喜欢；偏好",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "prejudice",
+    "Chinese": "偏见；歧视",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "premium",
+    "Chinese": "优质的；保险费",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "prescribe",
+    "Chinese": "开药方；规定",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "preserve",
+    "Chinese": "保护；保存",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "pressure",
+    "Chinese": "压力；压迫",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "pretend",
+    "Chinese": "假装；伪装",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "prevail",
+    "Chinese": "流行；占优势",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "previous",
+    "Chinese": "先前的；以前的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pre"
+  },
+  {
+    "Word": "pride",
+    "Chinese": "骄傲；自豪",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "primary",
+    "Chinese": "主要的；初级的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "prime",
+    "Chinese": "首要的；全盛时期",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "principal",
+    "Chinese": "主要的；校长",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "principle",
+    "Chinese": "原则；原理",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "priority",
+    "Chinese": "优先；优先权",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "privacy",
+    "Chinese": "隐私；私密",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "privilege",
+    "Chinese": "特权；优惠",
+    "Difficulty": "cet6",
+    "RootPrefix": "pri"
+  },
+  {
+    "Word": "probable",
+    "Chinese": "很可能的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "procedure",
+    "Chinese": "程序；步骤",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "proceed",
+    "Chinese": "继续；进行",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "process",
+    "Chinese": "过程；处理",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "produce",
+    "Chinese": "生产；制造",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "profession",
+    "Chinese": "职业；行业",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "profit",
+    "Chinese": "利润；收益",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "progress",
+    "Chinese": "进步；进展",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "prohibit",
+    "Chinese": "禁止；阻止",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "project",
+    "Chinese": "项目；投射",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "prominent",
+    "Chinese": "突出的；著名的",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "promote",
+    "Chinese": "促进；推广",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "prompt",
+    "Chinese": "迅速的；提示",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "proof",
+    "Chinese": "证据；证明",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "property",
+    "Chinese": "财产；属性",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "proportion",
+    "Chinese": "比例；部分",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "proposal",
+    "Chinese": "提议；建议",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "propose",
+    "Chinese": "提议；建议",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "prospect",
+    "Chinese": "前景；展望",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "prosperity",
+    "Chinese": "繁荣；兴旺",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "protect",
+    "Chinese": "保护；防护",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "protest",
+    "Chinese": "抗议；反对",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "provide",
+    "Chinese": "提供；供给",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "province",
+    "Chinese": "省份；领域",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "provoke",
+    "Chinese": "挑衅；激起",
+    "Difficulty": "cet6",
+    "RootPrefix": "pro"
+  },
+  {
+    "Word": "psychological",
+    "Chinese": "心理的；心理学的",
+    "Difficulty": "cet6",
+    "RootPrefix": "psy"
+  },
+  {
+    "Word": "publish",
+    "Chinese": "出版；发布",
+    "Difficulty": "cet6",
+    "RootPrefix": "pub"
+  },
+  {
+    "Word": "purchase",
+    "Chinese": "购买；采购",
+    "Difficulty": "cet6",
+    "RootPrefix": "pur"
+  },
+  {
+    "Word": "pursue",
+    "Chinese": "追求；追赶",
+    "Difficulty": "cet6",
+    "RootPrefix": "pur"
+  },
+  {
+    "Word": "puzzle",
+    "Chinese": "谜题；使困惑",
+    "Difficulty": "cet6",
+    "RootPrefix": "puz"
+  },
+  {
+    "Word": "qualification",
+    "Chinese": "资格；条件",
+    "Difficulty": "cet6",
+    "RootPrefix": "qua"
+  },
+  {
+    "Word": "quantity",
+    "Chinese": "数量；大量",
+    "Difficulty": "cet6",
+    "RootPrefix": "qua"
+  },
+  {
+    "Word": "quit",
+    "Chinese": "退出；放弃",
+    "Difficulty": "cet6",
+    "RootPrefix": "qui"
+  },
+  {
+    "Word": "quote",
+    "Chinese": "引用；报价",
+    "Difficulty": "cet6",
+    "RootPrefix": "quo"
+  },
+  {
+    "Word": "radical",
+    "Chinese": "根本的；激进的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rad"
+  },
+  {
+    "Word": "random",
+    "Chinese": "随机的；任意的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ran"
+  },
+  {
+    "Word": "range",
+    "Chinese": "范围；排列",
+    "Difficulty": "cet6",
+    "RootPrefix": "ran"
+  },
+  {
+    "Word": "rank",
+    "Chinese": "等级；排名",
+    "Difficulty": "cet6",
+    "RootPrefix": "ran"
+  },
+  {
+    "Word": "rapid",
+    "Chinese": "迅速的；快速的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rap"
+  },
+  {
+    "Word": "rare",
+    "Chinese": "稀有的；罕见的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rar"
+  },
+  {
+    "Word": "rate",
+    "Chinese": "比率；速度",
+    "Difficulty": "cet6",
+    "RootPrefix": "rat"
+  },
+  {
+    "Word": "rational",
+    "Chinese": "理性的；合理的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rat"
+  },
+  {
+    "Word": "react",
+    "Chinese": "反应；回应",
+    "Difficulty": "cet6",
+    "RootPrefix": "rea"
+  },
+  {
+    "Word": "readily",
+    "Chinese": "容易地；乐意地",
+    "Difficulty": "cet6",
+    "RootPrefix": "rea"
+  },
+  {
+    "Word": "realistic",
+    "Chinese": "现实的；实际的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rea"
+  },
+  {
+    "Word": "reality",
+    "Chinese": "现实；实际",
+    "Difficulty": "cet6",
+    "RootPrefix": "rea"
+  },
+  {
+    "Word": "reasonable",
+    "Chinese": "合理的；公道的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rea"
+  },
+  {
+    "Word": "rebel",
+    "Chinese": "反叛者；反抗",
+    "Difficulty": "cet6",
+    "RootPrefix": "reb"
+  },
+  {
+    "Word": "recall",
+    "Chinese": "回忆；召回",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "reception",
+    "Chinese": "接待；接收",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "reckon",
+    "Chinese": "认为；估计",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "recognize",
+    "Chinese": "认出；承认",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "recommend",
+    "Chinese": "推荐；建议",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "recover",
+    "Chinese": "恢复；康复",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "recruit",
+    "Chinese": "招募；新成员",
+    "Difficulty": "cet6",
+    "RootPrefix": "rec"
+  },
+  {
+    "Word": "reduce",
+    "Chinese": "减少；降低",
+    "Difficulty": "cet6",
+    "RootPrefix": "red"
+  },
+  {
+    "Word": "refer",
+    "Chinese": "参考；提及",
+    "Difficulty": "cet6",
+    "RootPrefix": "ref"
+  },
+  {
+    "Word": "reflect",
+    "Chinese": "反映；反射",
+    "Difficulty": "cet6",
+    "RootPrefix": "ref"
+  },
+  {
+    "Word": "reform",
+    "Chinese": "改革；改造",
+    "Difficulty": "cet6",
+    "RootPrefix": "ref"
+  },
+  {
+    "Word": "refugee",
+    "Chinese": "难民",
+    "Difficulty": "cet6",
+    "RootPrefix": "ref"
+  },
+  {
+    "Word": "refuse",
+    "Chinese": "拒绝",
+    "Difficulty": "cet6",
+    "RootPrefix": "ref"
+  },
+  {
+    "Word": "regard",
+    "Chinese": "认为；看待",
+    "Difficulty": "cet6",
+    "RootPrefix": "reg"
+  },
+  {
+    "Word": "region",
+    "Chinese": "区域；地区",
+    "Difficulty": "cet6",
+    "RootPrefix": "reg"
+  },
+  {
+    "Word": "register",
+    "Chinese": "注册；登记",
+    "Difficulty": "cet6",
+    "RootPrefix": "reg"
+  },
+  {
+    "Word": "regulate",
+    "Chinese": "调节；管理",
+    "Difficulty": "cet6",
+    "RootPrefix": "reg"
+  },
+  {
+    "Word": "reject",
+    "Chinese": "拒绝；排斥",
+    "Difficulty": "cet6",
+    "RootPrefix": "rej"
+  },
+  {
+    "Word": "relate",
+    "Chinese": "涉及；关联",
+    "Difficulty": "cet6",
+    "RootPrefix": "rel"
+  },
+  {
+    "Word": "release",
+    "Chinese": "释放；发布",
+    "Difficulty": "cet6",
+    "RootPrefix": "rel"
+  },
+  {
+    "Word": "relevant",
+    "Chinese": "相关的；切题的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rel"
+  },
+  {
+    "Word": "relief",
+    "Chinese": "减轻；救济",
+    "Difficulty": "cet6",
+    "RootPrefix": "rel"
+  },
+  {
+    "Word": "religion",
+    "Chinese": "宗教；信仰",
+    "Difficulty": "cet6",
+    "RootPrefix": "rel"
+  },
+  {
+    "Word": "rely",
+    "Chinese": "依赖；依靠",
+    "Difficulty": "cet6",
+    "RootPrefix": "rel"
+  },
+  {
+    "Word": "remain",
+    "Chinese": "保持；剩余",
+    "Difficulty": "cet6",
+    "RootPrefix": "rem"
+  },
+  {
+    "Word": "remedy",
+    "Chinese": "补救；治疗",
+    "Difficulty": "cet6",
+    "RootPrefix": "rem"
+  },
+  {
+    "Word": "remote",
+    "Chinese": "遥远的；偏僻的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rem"
+  },
+  {
+    "Word": "render",
+    "Chinese": "使成为；提供",
+    "Difficulty": "cet6",
+    "RootPrefix": "ren"
+  },
+  {
+    "Word": "renew",
+    "Chinese": "更新；续期",
+    "Difficulty": "cet6",
+    "RootPrefix": "ren"
+  },
+  {
+    "Word": "rent",
+    "Chinese": "租金；出租",
+    "Difficulty": "cet6",
+    "RootPrefix": "ren"
+  },
+  {
+    "Word": "replace",
+    "Chinese": "替换；取代",
+    "Difficulty": "cet6",
+    "RootPrefix": "rep"
+  },
+  {
+    "Word": "represent",
+    "Chinese": "代表；表示",
+    "Difficulty": "cet6",
+    "RootPrefix": "rep"
+  },
+  {
+    "Word": "reputation",
+    "Chinese": "声誉；名声",
+    "Difficulty": "cet6",
+    "RootPrefix": "rep"
+  },
+  {
+    "Word": "request",
+    "Chinese": "请求；要求",
+    "Difficulty": "cet6",
+    "RootPrefix": "req"
+  },
+  {
+    "Word": "require",
+    "Chinese": "需要；要求",
+    "Difficulty": "cet6",
+    "RootPrefix": "req"
+  },
+  {
+    "Word": "resemble",
+    "Chinese": "类似；像",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "reserve",
+    "Chinese": "保留；预订",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "resign",
+    "Chinese": "辞职；放弃",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "resist",
+    "Chinese": "抵抗；抵制",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "resolve",
+    "Chinese": "解决；决心",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "resource",
+    "Chinese": "资源；财力",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "respond",
+    "Chinese": "回答；响应",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "restore",
+    "Chinese": "恢复；修复",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "restrain",
+    "Chinese": "抑制；约束",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "restrict",
+    "Chinese": "限制；约束",
+    "Difficulty": "cet6",
+    "RootPrefix": "res"
+  },
+  {
+    "Word": "reveal",
+    "Chinese": "揭示；展现",
+    "Difficulty": "cet6",
+    "RootPrefix": "rev"
+  },
+  {
+    "Word": "revenue",
+    "Chinese": "收入；税收",
+    "Difficulty": "cet6",
+    "RootPrefix": "rev"
+  },
+  {
+    "Word": "reverse",
+    "Chinese": "相反的；反转",
+    "Difficulty": "cet6",
+    "RootPrefix": "rev"
+  },
+  {
+    "Word": "revise",
+    "Chinese": "修订；复习",
+    "Difficulty": "cet6",
+    "RootPrefix": "rev"
+  },
+  {
+    "Word": "revolution",
+    "Chinese": "革命；变革",
+    "Difficulty": "cet6",
+    "RootPrefix": "rev"
+  },
+  {
+    "Word": "reward",
+    "Chinese": "奖励；回报",
+    "Difficulty": "cet6",
+    "RootPrefix": "rew"
+  },
+  {
+    "Word": "rival",
+    "Chinese": "对手；竞争的",
+    "Difficulty": "cet6",
+    "RootPrefix": "riv"
+  },
+  {
+    "Word": "role",
+    "Chinese": "角色；作用",
+    "Difficulty": "cet6",
+    "RootPrefix": "rol"
+  },
+  {
+    "Word": "route",
+    "Chinese": "路线；路径",
+    "Difficulty": "cet6",
+    "RootPrefix": "rou"
+  },
+  {
+    "Word": "routine",
+    "Chinese": "常规；惯例",
+    "Difficulty": "cet6",
+    "RootPrefix": "rou"
+  },
+  {
+    "Word": "royal",
+    "Chinese": "皇家的；王室的",
+    "Difficulty": "cet6",
+    "RootPrefix": "roy"
+  },
+  {
+    "Word": "rural",
+    "Chinese": "农村的；乡下的",
+    "Difficulty": "cet6",
+    "RootPrefix": "rur"
+  },
+  {
+    "Word": "sacrifice",
+    "Chinese": "牺牲；献祭",
+    "Difficulty": "cet6",
+    "RootPrefix": "sac"
+  },
+  {
+    "Word": "sake",
+    "Chinese": "缘故；目的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sak"
+  },
+  {
+    "Word": "salary",
+    "Chinese": "薪水；工资",
+    "Difficulty": "cet6",
+    "RootPrefix": "sal"
+  },
+  {
+    "Word": "sample",
+    "Chinese": "样本；样品",
+    "Difficulty": "cet6",
+    "RootPrefix": "sam"
+  },
+  {
+    "Word": "sanction",
+    "Chinese": "制裁；批准",
+    "Difficulty": "cet6",
+    "RootPrefix": "san"
+  },
+  {
+    "Word": "scale",
+    "Chinese": "规模；比例",
+    "Difficulty": "cet6",
+    "RootPrefix": "sca"
+  },
+  {
+    "Word": "scandal",
+    "Chinese": "丑闻；流言蜚语",
+    "Difficulty": "cet6",
+    "RootPrefix": "sca"
+  },
+  {
+    "Word": "scarce",
+    "Chinese": "稀缺的；不足的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sca"
+  },
+  {
+    "Word": "scatter",
+    "Chinese": "分散；散布",
+    "Difficulty": "cet6",
+    "RootPrefix": "sca"
+  },
+  {
+    "Word": "schedule",
+    "Chinese": "时间表；安排",
+    "Difficulty": "cet6",
+    "RootPrefix": "sch"
+  },
+  {
+    "Word": "scheme",
+    "Chinese": "方案；计划",
+    "Difficulty": "cet6",
+    "RootPrefix": "sch"
+  },
+  {
+    "Word": "scholar",
+    "Chinese": "学者；奖学金获得者",
+    "Difficulty": "cet6",
+    "RootPrefix": "sch"
+  },
+  {
+    "Word": "scope",
+    "Chinese": "范围；视野",
+    "Difficulty": "cet6",
+    "RootPrefix": "sco"
+  },
+  {
+    "Word": "section",
+    "Chinese": "部分；区域",
+    "Difficulty": "cet6",
+    "RootPrefix": "sec"
+  },
+  {
+    "Word": "sector",
+    "Chinese": "部门；行业",
+    "Difficulty": "cet6",
+    "RootPrefix": "sec"
+  },
+  {
+    "Word": "secure",
+    "Chinese": "安全的；获得",
+    "Difficulty": "cet6",
+    "RootPrefix": "sec"
+  },
+  {
+    "Word": "seek",
+    "Chinese": "寻求；寻找",
+    "Difficulty": "cet6",
+    "RootPrefix": "see"
+  },
+  {
+    "Word": "segment",
+    "Chinese": "部分；片段",
+    "Difficulty": "cet6",
+    "RootPrefix": "seg"
+  },
+  {
+    "Word": "senate",
+    "Chinese": "参议院",
+    "Difficulty": "cet6",
+    "RootPrefix": "sen"
+  },
+  {
+    "Word": "senior",
+    "Chinese": "高级的；年长的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sen"
+  },
+  {
+    "Word": "sensitive",
+    "Chinese": "敏感的；灵敏的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sen"
+  },
+  {
+    "Word": "sequence",
+    "Chinese": "序列；顺序",
+    "Difficulty": "cet6",
+    "RootPrefix": "seq"
+  },
+  {
+    "Word": "session",
+    "Chinese": "会议；一段时间",
+    "Difficulty": "cet6",
+    "RootPrefix": "ses"
+  },
+  {
+    "Word": "settle",
+    "Chinese": "解决；定居",
+    "Difficulty": "cet6",
+    "RootPrefix": "set"
+  },
+  {
+    "Word": "severe",
+    "Chinese": "严重的；严厉的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sev"
+  },
+  {
+    "Word": "shelter",
+    "Chinese": "避难所；庇护",
+    "Difficulty": "cet6",
+    "RootPrefix": "she"
+  },
+  {
+    "Word": "shield",
+    "Chinese": "盾牌；保护",
+    "Difficulty": "cet6",
+    "RootPrefix": "shi"
+  },
+  {
+    "Word": "shift",
+    "Chinese": "转移；轮班",
+    "Difficulty": "cet6",
+    "RootPrefix": "shi"
+  },
+  {
+    "Word": "shortage",
+    "Chinese": "短缺；不足",
+    "Difficulty": "cet6",
+    "RootPrefix": "sho"
+  },
+  {
+    "Word": "shrink",
+    "Chinese": "收缩；缩水",
+    "Difficulty": "cet6",
+    "RootPrefix": "shr"
+  },
+  {
+    "Word": "signal",
+    "Chinese": "信号；标志",
+    "Difficulty": "cet6",
+    "RootPrefix": "sig"
+  },
+  {
+    "Word": "significance",
+    "Chinese": "重要性；意义",
+    "Difficulty": "cet6",
+    "RootPrefix": "sig"
+  },
+  {
+    "Word": "significant",
+    "Chinese": "重要的；显著的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sig"
+  },
+  {
+    "Word": "similar",
+    "Chinese": "相似的；类似的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sim"
+  },
+  {
+    "Word": "simplify",
+    "Chinese": "简化；精简",
+    "Difficulty": "cet6",
+    "RootPrefix": "sim"
+  },
+  {
+    "Word": "sketch",
+    "Chinese": "素描；草图",
+    "Difficulty": "cet6",
+    "RootPrefix": "ske"
+  },
+  {
+    "Word": "slice",
+    "Chinese": "切片；薄片",
+    "Difficulty": "cet6",
+    "RootPrefix": "sli"
+  },
+  {
+    "Word": "slight",
+    "Chinese": "轻微的；微小的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sli"
+  },
+  {
+    "Word": "social",
+    "Chinese": "社会的；社交的",
+    "Difficulty": "cet6",
+    "RootPrefix": "soc"
+  },
+  {
+    "Word": "sole",
+    "Chinese": "唯一的；脚底",
+    "Difficulty": "cet6",
+    "RootPrefix": "sol"
+  },
+  {
+    "Word": "solemn",
+    "Chinese": "庄严的；严肃的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sol"
+  },
+  {
+    "Word": "solution",
+    "Chinese": "解决方案；溶液",
+    "Difficulty": "cet6",
+    "RootPrefix": "sol"
+  },
+  {
+    "Word": "somewhat",
+    "Chinese": "有点；稍微",
+    "Difficulty": "cet6",
+    "RootPrefix": "som"
+  },
+  {
+    "Word": "source",
+    "Chinese": "来源；源头",
+    "Difficulty": "cet6",
+    "RootPrefix": "sou"
+  },
+  {
+    "Word": "span",
+    "Chinese": "跨度；持续",
+    "Difficulty": "cet6",
+    "RootPrefix": "spa"
+  },
+  {
+    "Word": "specialize",
+    "Chinese": "专攻；专门从事",
+    "Difficulty": "cet6",
+    "RootPrefix": "spe"
+  },
+  {
+    "Word": "species",
+    "Chinese": "物种；种类",
+    "Difficulty": "cet6",
+    "RootPrefix": "spe"
+  },
+  {
+    "Word": "specific",
+    "Chinese": "具体的；特定的",
+    "Difficulty": "cet6",
+    "RootPrefix": "spe"
+  },
+  {
+    "Word": "speculate",
+    "Chinese": "推测；投机",
+    "Difficulty": "cet6",
+    "RootPrefix": "spe"
+  },
+  {
+    "Word": "sphere",
+    "Chinese": "领域；球体",
+    "Difficulty": "cet6",
+    "RootPrefix": "sph"
+  },
+  {
+    "Word": "split",
+    "Chinese": "分裂；分开",
+    "Difficulty": "cet6",
+    "RootPrefix": "spl"
+  },
+  {
+    "Word": "sponsor",
+    "Chinese": "赞助；赞助商",
+    "Difficulty": "cet6",
+    "RootPrefix": "spo"
+  },
+  {
+    "Word": "squeeze",
+    "Chinese": "挤压；压榨",
+    "Difficulty": "cet6",
+    "RootPrefix": "squ"
+  },
+  {
+    "Word": "stable",
+    "Chinese": "稳定的；马厩",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "staff",
+    "Chinese": "员工；全体职员",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "stain",
+    "Chinese": "污渍；染色",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "standard",
+    "Chinese": "标准；规范",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "starve",
+    "Chinese": "挨饿；饿死",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "statement",
+    "Chinese": "陈述；声明",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "statistics",
+    "Chinese": "统计；统计学",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "status",
+    "Chinese": "地位；状态",
+    "Difficulty": "cet6",
+    "RootPrefix": "sta"
+  },
+  {
+    "Word": "steady",
+    "Chinese": "稳定的；平稳的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ste"
+  },
+  {
+    "Word": "stem",
+    "Chinese": "茎；起源于",
+    "Difficulty": "cet6",
+    "RootPrefix": "ste"
+  },
+  {
+    "Word": "stimulate",
+    "Chinese": "刺激；激励",
+    "Difficulty": "cet6",
+    "RootPrefix": "sti"
+  },
+  {
+    "Word": "stock",
+    "Chinese": "股票；库存",
+    "Difficulty": "cet6",
+    "RootPrefix": "sto"
+  },
+  {
+    "Word": "strategy",
+    "Chinese": "战略；策略",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "stream",
+    "Chinese": "溪流；流动",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "strength",
+    "Chinese": "力量；强度",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "stress",
+    "Chinese": "压力；强调",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "stretch",
+    "Chinese": "伸展；延伸",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "strike",
+    "Chinese": "打击；罢工",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "strip",
+    "Chinese": "剥去；条状",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "structure",
+    "Chinese": "结构；构造",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "struggle",
+    "Chinese": "奋斗；挣扎",
+    "Difficulty": "cet6",
+    "RootPrefix": "str"
+  },
+  {
+    "Word": "submit",
+    "Chinese": "提交；屈服",
+    "Difficulty": "cet6",
+    "RootPrefix": "sub"
+  },
+  {
+    "Word": "subsequent",
+    "Chinese": "随后的；后来的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sub"
+  },
+  {
+    "Word": "substance",
+    "Chinese": "物质；实质",
+    "Difficulty": "cet6",
+    "RootPrefix": "sub"
+  },
+  {
+    "Word": "substitute",
+    "Chinese": "替代；替代品",
+    "Difficulty": "cet6",
+    "RootPrefix": "sub"
+  },
+  {
+    "Word": "succeed",
+    "Chinese": "成功；继承",
+    "Difficulty": "cet6",
+    "RootPrefix": "suc"
+  },
+  {
+    "Word": "sufficient",
+    "Chinese": "足够的；充分的",
+    "Difficulty": "cet6",
+    "RootPrefix": "suf"
+  },
+  {
+    "Word": "suggest",
+    "Chinese": "建议；暗示",
+    "Difficulty": "cet6",
+    "RootPrefix": "sug"
+  },
+  {
+    "Word": "summarize",
+    "Chinese": "总结；概括",
+    "Difficulty": "cet6",
+    "RootPrefix": "sum"
+  },
+  {
+    "Word": "superb",
+    "Chinese": "极好的；卓越的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "superficial",
+    "Chinese": "表面的；肤浅的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "superior",
+    "Chinese": "优越的；上级的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "supplement",
+    "Chinese": "补充；增补",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "supply",
+    "Chinese": "供应；提供",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "suppose",
+    "Chinese": "假设；认为",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "supreme",
+    "Chinese": "最高的；至上的",
+    "Difficulty": "cet6",
+    "RootPrefix": "sup"
+  },
+  {
+    "Word": "surface",
+    "Chinese": "表面；外表",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "surgery",
+    "Chinese": "外科手术",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "surplus",
+    "Chinese": "过剩；盈余",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "surrender",
+    "Chinese": "投降；放弃",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "surround",
+    "Chinese": "包围；围绕",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "survey",
+    "Chinese": "调查；勘测",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "survive",
+    "Chinese": "幸存；存活",
+    "Difficulty": "cet6",
+    "RootPrefix": "sur"
+  },
+  {
+    "Word": "suspect",
+    "Chinese": "怀疑；嫌疑犯",
+    "Difficulty": "cet6",
+    "RootPrefix": "sus"
+  },
+  {
+    "Word": "suspend",
+    "Chinese": "暂停；悬挂",
+    "Difficulty": "cet6",
+    "RootPrefix": "sus"
+  },
+  {
+    "Word": "sustain",
+    "Chinese": "维持；支撑",
+    "Difficulty": "cet6",
+    "RootPrefix": "sus"
+  },
+  {
+    "Word": "symbol",
+    "Chinese": "符号；象征",
+    "Difficulty": "cet6",
+    "RootPrefix": "sym"
+  },
+  {
+    "Word": "symptom",
+    "Chinese": "症状；征兆",
+    "Difficulty": "cet6",
+    "RootPrefix": "sym"
+  },
+  {
+    "Word": "system",
+    "Chinese": "系统；制度",
+    "Difficulty": "cet6",
+    "RootPrefix": "sys"
+  },
+  {
+    "Word": "tackle",
+    "Chinese": "处理； tackle",
+    "Difficulty": "cet6",
+    "RootPrefix": "tac"
+  },
+  {
+    "Word": "target",
+    "Chinese": "目标；靶子",
+    "Difficulty": "cet6",
+    "RootPrefix": "tar"
+  },
+  {
+    "Word": "technique",
+    "Chinese": "技术；技巧",
+    "Difficulty": "cet6",
+    "RootPrefix": "tec"
+  },
+  {
+    "Word": "technology",
+    "Chinese": "技术；科技",
+    "Difficulty": "cet6",
+    "RootPrefix": "tec"
+  },
+  {
+    "Word": "temperature",
+    "Chinese": "温度；体温",
+    "Difficulty": "cet6",
+    "RootPrefix": "tem"
+  },
+  {
+    "Word": "temporary",
+    "Chinese": "暂时的；临时的",
+    "Difficulty": "cet6",
+    "RootPrefix": "tem"
+  },
+  {
+    "Word": "tendency",
+    "Chinese": "趋势；倾向",
+    "Difficulty": "cet6",
+    "RootPrefix": "ten"
+  },
+  {
+    "Word": "terminal",
+    "Chinese": "终端；末端的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ter"
+  },
+  {
+    "Word": "territory",
+    "Chinese": "领土；领域",
+    "Difficulty": "cet6",
+    "RootPrefix": "ter"
+  },
+  {
+    "Word": "terror",
+    "Chinese": "恐怖；惊骇",
+    "Difficulty": "cet6",
+    "RootPrefix": "ter"
+  },
+  {
+    "Word": "theme",
+    "Chinese": "主题；题目",
+    "Difficulty": "cet6",
+    "RootPrefix": "the"
+  },
+  {
+    "Word": "theory",
+    "Chinese": "理论；学说",
+    "Difficulty": "cet6",
+    "RootPrefix": "the"
+  },
+  {
+    "Word": "thorough",
+    "Chinese": "彻底的；全面的",
+    "Difficulty": "cet6",
+    "RootPrefix": "tho"
+  },
+  {
+    "Word": "threat",
+    "Chinese": "威胁；恐吓",
+    "Difficulty": "cet6",
+    "RootPrefix": "thr"
+  },
+  {
+    "Word": "thrive",
+    "Chinese": "繁荣；兴旺",
+    "Difficulty": "cet6",
+    "RootPrefix": "thr"
+  },
+  {
+    "Word": "tissue",
+    "Chinese": "组织；纸巾",
+    "Difficulty": "cet6",
+    "RootPrefix": "tis"
+  },
+  {
+    "Word": "tolerance",
+    "Chinese": "容忍；公差",
+    "Difficulty": "cet6",
+    "RootPrefix": "tol"
+  },
+  {
+    "Word": "tone",
+    "Chinese": "语调；音调",
+    "Difficulty": "cet6",
+    "RootPrefix": "ton"
+  },
+  {
+    "Word": "topic",
+    "Chinese": "话题；主题",
+    "Difficulty": "cet6",
+    "RootPrefix": "top"
+  },
+  {
+    "Word": "tough",
+    "Chinese": "艰难的；强硬的",
+    "Difficulty": "cet6",
+    "RootPrefix": "tou"
+  },
+  {
+    "Word": "trace",
+    "Chinese": "追踪；痕迹",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "track",
+    "Chinese": "轨道；追踪",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "tradition",
+    "Chinese": "传统；惯例",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "tragedy",
+    "Chinese": "悲剧；惨剧",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "trail",
+    "Chinese": "小径；追踪",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "trait",
+    "Chinese": "特点；特征",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "transfer",
+    "Chinese": "转移；转让",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "transform",
+    "Chinese": "改变；转换",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "transition",
+    "Chinese": "过渡；转变",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "transmit",
+    "Chinese": "传送；传播",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "transparent",
+    "Chinese": "透明的；显然的",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "transport",
+    "Chinese": "运输；交通",
+    "Difficulty": "cet6",
+    "RootPrefix": "tra"
+  },
+  {
+    "Word": "treasure",
+    "Chinese": "财富；珍宝",
+    "Difficulty": "cet6",
+    "RootPrefix": "tre"
+  },
+  {
+    "Word": "treaty",
+    "Chinese": "条约；协议",
+    "Difficulty": "cet6",
+    "RootPrefix": "tre"
+  },
+  {
+    "Word": "tremendous",
+    "Chinese": "巨大的；惊人的",
+    "Difficulty": "cet6",
+    "RootPrefix": "tre"
+  },
+  {
+    "Word": "trend",
+    "Chinese": "趋势；潮流",
+    "Difficulty": "cet6",
+    "RootPrefix": "tre"
+  },
+  {
+    "Word": "trial",
+    "Chinese": "审判；试验",
+    "Difficulty": "cet6",
+    "RootPrefix": "tri"
+  },
+  {
+    "Word": "trigger",
+    "Chinese": "触发；扳机",
+    "Difficulty": "cet6",
+    "RootPrefix": "tri"
+  },
+  {
+    "Word": "triumph",
+    "Chinese": "胜利；成功",
+    "Difficulty": "cet6",
+    "RootPrefix": "tri"
+  },
+  {
+    "Word": "troop",
+    "Chinese": "部队；群组",
+    "Difficulty": "cet6",
+    "RootPrefix": "tro"
+  },
+  {
+    "Word": "tropical",
+    "Chinese": "热带的",
+    "Difficulty": "cet6",
+    "RootPrefix": "tro"
+  },
+  {
+    "Word": "tune",
+    "Chinese": "曲调；调整",
+    "Difficulty": "cet6",
+    "RootPrefix": "tun"
+  },
+  {
+    "Word": "tutor",
+    "Chinese": "导师；家教",
+    "Difficulty": "cet6",
+    "RootPrefix": "tut"
+  },
+  {
+    "Word": "typical",
+    "Chinese": "典型的；特有的",
+    "Difficulty": "cet6",
+    "RootPrefix": "typ"
+  },
+  {
+    "Word": "ultimate",
+    "Chinese": "最终的；根本的",
+    "Difficulty": "cet6",
+    "RootPrefix": "ult"
+  },
+  {
+    "Word": "undergo",
+    "Chinese": "经历；遭受",
+    "Difficulty": "cet6",
+    "RootPrefix": "und"
+  },
+  {
+    "Word": "undermine",
+    "Chinese": "削弱；破坏",
+    "Difficulty": "cet6",
+    "RootPrefix": "und"
+  },
+  {
+    "Word": "undertake",
+    "Chinese": "承担；从事",
+    "Difficulty": "cet6",
+    "RootPrefix": "und"
+  },
+  {
+    "Word": "unemployment",
+    "Chinese": "失业",
+    "Difficulty": "cet6",
+    "RootPrefix": "une"
+  },
+  {
+    "Word": "union",
+    "Chinese": "联盟；工会",
+    "Difficulty": "cet6",
+    "RootPrefix": "uni"
+  },
+  {
+    "Word": "unique",
+    "Chinese": "独特的；唯一的",
+    "Difficulty": "cet6",
+    "RootPrefix": "uni"
+  },
+  {
+    "Word": "universal",
+    "Chinese": "普遍的；宇宙的",
+    "Difficulty": "cet6",
+    "RootPrefix": "uni"
+  },
+  {
+    "Word": "update",
+    "Chinese": "更新；升级",
+    "Difficulty": "cet6",
+    "RootPrefix": "upd"
+  },
+  {
+    "Word": "urban",
+    "Chinese": "城市的；都市的",
+    "Difficulty": "cet6",
+    "RootPrefix": "urb"
+  },
+  {
+    "Word": "urge",
+    "Chinese": "催促；强烈欲望",
+    "Difficulty": "cet6",
+    "RootPrefix": "urg"
+  },
+  {
+    "Word": "utilize",
+    "Chinese": "利用；使用",
+    "Difficulty": "cet6",
+    "RootPrefix": "uti"
+  },
+  {
+    "Word": "utter",
+    "Chinese": "完全的；说出",
+    "Difficulty": "cet6",
+    "RootPrefix": "utt"
+  },
+  {
+    "Word": "vacant",
+    "Chinese": "空的；空缺的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vac"
+  },
+  {
+    "Word": "vague",
+    "Chinese": "模糊的；含糊的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vag"
+  },
+  {
+    "Word": "valid",
+    "Chinese": "有效的；合理的",
+    "Difficulty": "cet6",
+    "RootPrefix": "val"
+  },
+  {
+    "Word": "value",
+    "Chinese": "价值；重视",
+    "Difficulty": "cet6",
+    "RootPrefix": "val"
+  },
+  {
+    "Word": "vanish",
+    "Chinese": "消失；消散",
+    "Difficulty": "cet6",
+    "RootPrefix": "van"
+  },
+  {
+    "Word": "variable",
+    "Chinese": "可变的；变量",
+    "Difficulty": "cet6",
+    "RootPrefix": "var"
+  },
+  {
+    "Word": "variety",
+    "Chinese": "多样性；种类",
+    "Difficulty": "cet6",
+    "RootPrefix": "var"
+  },
+  {
+    "Word": "various",
+    "Chinese": "各种各样的",
+    "Difficulty": "cet6",
+    "RootPrefix": "var"
+  },
+  {
+    "Word": "vast",
+    "Chinese": "广阔的；巨大的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vas"
+  },
+  {
+    "Word": "venture",
+    "Chinese": "冒险；企业",
+    "Difficulty": "cet6",
+    "RootPrefix": "ven"
+  },
+  {
+    "Word": "verify",
+    "Chinese": "验证；核实",
+    "Difficulty": "cet6",
+    "RootPrefix": "ver"
+  },
+  {
+    "Word": "version",
+    "Chinese": "版本；说法",
+    "Difficulty": "cet6",
+    "RootPrefix": "ver"
+  },
+  {
+    "Word": "veteran",
+    "Chinese": "老兵；经验丰富的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vet"
+  },
+  {
+    "Word": "via",
+    "Chinese": "通过；经由",
+    "Difficulty": "cet6",
+    "RootPrefix": ""
+  },
+  {
+    "Word": "victim",
+    "Chinese": "受害者；牺牲品",
+    "Difficulty": "cet6",
+    "RootPrefix": "vic"
+  },
+  {
+    "Word": "vigorous",
+    "Chinese": "精力充沛的；有力的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vig"
+  },
+  {
+    "Word": "violate",
+    "Chinese": "违反；侵犯",
+    "Difficulty": "cet6",
+    "RootPrefix": "vio"
+  },
+  {
+    "Word": "violence",
+    "Chinese": "暴力；暴行",
+    "Difficulty": "cet6",
+    "RootPrefix": "vio"
+  },
+  {
+    "Word": "virtual",
+    "Chinese": "虚拟的；实质上的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vir"
+  },
+  {
+    "Word": "virtue",
+    "Chinese": "美德；优点",
+    "Difficulty": "cet6",
+    "RootPrefix": "vir"
+  },
+  {
+    "Word": "visible",
+    "Chinese": "可见的；明显的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vis"
+  },
+  {
+    "Word": "vision",
+    "Chinese": "视力；愿景",
+    "Difficulty": "cet6",
+    "RootPrefix": "vis"
+  },
+  {
+    "Word": "visual",
+    "Chinese": "视觉的；可视的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vis"
+  },
+  {
+    "Word": "vital",
+    "Chinese": "至关重要的；生命的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vit"
+  },
+  {
+    "Word": "vivid",
+    "Chinese": "生动的；鲜明的",
+    "Difficulty": "cet6",
+    "RootPrefix": "viv"
+  },
+  {
+    "Word": "volume",
+    "Chinese": "音量；卷；体积",
+    "Difficulty": "cet6",
+    "RootPrefix": "vol"
+  },
+  {
+    "Word": "voluntary",
+    "Chinese": "自愿的；志愿的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vol"
+  },
+  {
+    "Word": "vulnerable",
+    "Chinese": "脆弱的；易受伤的",
+    "Difficulty": "cet6",
+    "RootPrefix": "vul"
+  },
+  {
+    "Word": "wander",
+    "Chinese": "漫步；徘徊",
+    "Difficulty": "cet6",
+    "RootPrefix": "wan"
+  },
+  {
+    "Word": "warrant",
+    "Chinese": "保证；授权",
+    "Difficulty": "cet6",
+    "RootPrefix": "war"
+  },
+  {
+    "Word": "wealth",
+    "Chinese": "财富；富裕",
+    "Difficulty": "cet6",
+    "RootPrefix": "wea"
+  },
+  {
+    "Word": "weapon",
+    "Chinese": "武器；兵器",
+    "Difficulty": "cet6",
+    "RootPrefix": "wea"
+  },
+  {
+    "Word": "welfare",
+    "Chinese": "福利；幸福",
+    "Difficulty": "cet6",
+    "RootPrefix": "wel"
+  },
+  {
+    "Word": "whereas",
+    "Chinese": "然而；鉴于",
+    "Difficulty": "cet6",
+    "RootPrefix": "whe"
+  },
+  {
+    "Word": "widespread",
+    "Chinese": "广泛的；普遍的",
+    "Difficulty": "cet6",
+    "RootPrefix": "wid"
+  },
+  {
+    "Word": "wisdom",
+    "Chinese": "智慧；明智",
+    "Difficulty": "cet6",
+    "RootPrefix": "wis"
+  },
+  {
+    "Word": "withdraw",
+    "Chinese": "撤回；提取",
+    "Difficulty": "cet6",
+    "RootPrefix": "wit"
+  },
+  {
+    "Word": "witness",
+    "Chinese": "目击者；见证",
+    "Difficulty": "cet6",
+    "RootPrefix": "wit"
+  },
+  {
+    "Word": "worthwhile",
+    "Chinese": "值得的",
+    "Difficulty": "cet6",
+    "RootPrefix": "wor"
+  },
+  {
+    "Word": "wreck",
+    "Chinese": "破坏；残骸",
+    "Difficulty": "cet6",
+    "RootPrefix": "wre"
+  },
+  {
+    "Word": "yield",
+    "Chinese": "产出；屈服",
+    "Difficulty": "cet6",
+    "RootPrefix": "yie"
+  },
+  {
+    "Word": "zone",
+    "Chinese": "区域；地带",
+    "Difficulty": "cet6",
+    "RootPrefix": "zon"
+  }
+]

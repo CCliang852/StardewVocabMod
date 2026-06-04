@@ -1,0 +1,10 @@
+{
+  "Name": "星露谷背单词 (StardewVocabMod)",
+  "Author": "CCliang852",
+  "Version": "1.0.0",
+  "Description": "在星露谷中学习 CET-6 英语单词！三种游戏模式：固定时间答题、NPC 互动背词、词根挑战。1037 个词汇，支持自定义词库，GMCM 可配置。",
+  "UniqueID": "StardewVocabMod.CCliang852",
+  "EntryDll": "StardewVocabMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

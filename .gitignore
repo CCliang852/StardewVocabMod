@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+*.zip
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dev-only (our internal tracking, not for GitHub)
+docs/
+devlog/
+scripts/
